@@ -12,11 +12,7 @@ site:
   subtitle: SheepYhangCN's Blog
   author: 憨憨羊の宇航鸽鸽
   nick: SheepYhangCN
-  description: 
-    i18n: 
-      en: Don't know, don't mind, don't care.
-      zh-CN: 不知道，不清楚，不在乎。
-      zh-TW: 不知道，不清楚，不在乎。
+  description: 不知道，不清楚，不在乎。<br>Don't know, don't mind, don't care.
   link: '/'
   language: en
   multi_language: true
