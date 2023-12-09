@@ -44,13 +44,14 @@ Deltarune<br>
 OneShot<br>
 OMORI<br>
 Henry Stickmin<br>
+Pizza Tower<br>
 宅男的人间冒险<br>
 塞尔达传说<br>
 宝可梦<br>
 Splatoon<br>
 Super Mario Bros<br>
 星之卡比<br>
-DDLC<br>
+Doki Doki Literature Club<br>
 Vocaloid<br>
 Counter-Strike<br>
 Half-Life<br>
@@ -94,6 +95,7 @@ Undertale: Bits and Pieces - 简体中文
 ## “看看你的？”
 [BiliBili](https://space.bilibili.com/252906762)
 [YouTube](https://www.youtube.com/@SheepYhangCN)
+[Twitch](https://www.twitch.tv/sheepyhangcn)
 [Github](https://github.com/SheepYhangCN)
 [Gitlab](https://gitlab.com/SheepYhangCN)
 [Mastodon](https://mastodon.social/@SheepYhangCN)
@@ -101,11 +103,12 @@ Undertale: Bits and Pieces - 简体中文
 [itch.io](https://sheepyhangcn.itch.io/)
 [Gamejolt](https://gamejolt.com/@SheepYhangCN)
 [Steam](https://steamcommunity.com/id/SheepYhangCN)
-[Twitch](https://www.twitch.tv/sheepyhangcn)
+[Patreon](https://www.patreon.com/SheepYhangCN)
+[爱发电](https://afdian.net/a/SheepYhangCN)
 
 ## 联系我
 按照优先度排列，没事尽量不要找我扩列
- - 哔哩哔哩私聊
+ - [哔哩哔哩私聊](https://message.bilibili.com/#/whisper/mid252906762)
  - 电子邮箱：sheepyuhang@163.com
  - Discord：sheepyhangcn
  - QQ：973883035
