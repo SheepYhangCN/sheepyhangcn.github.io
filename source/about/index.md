@@ -89,6 +89,7 @@ Undertale: Bits and Pieces - 简体中文
 
 ## 在做什么项目？
 [OMORITALE](https://gamejolt.com/games/OMORITALE/685985)
+还有别的未公布项目
 
 ## 看看各平台链接？
 [BiliBili](https://space.bilibili.com/252906762)
@@ -99,3 +100,4 @@ Undertale: Bits and Pieces - 简体中文
 [Twitter](https://twitter.com/YuhangOscar233)
 [itch.io](https://sheepyhangcn.itch.io/)
 [Gamejolt](https://gamejolt.com/@SheepYhangCN)
+[Steam](https://steamcommunity.com/id/SheepYhangCN)

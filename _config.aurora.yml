@@ -9,12 +9,12 @@
 #！ @docs https://aurora.tridiamond.tech/guide/configuration.html
 #! ---------------------------------------------------------------
 site:
-  subtitle: SheepYhangCN's Blog
+  subtitle: 宇航の鸽子窝
   author: 憨憨羊の宇航鸽鸽
   nick: SheepYhangCN
   description: 不知道，不清楚，不在乎。<br>Don't know, don't mind, don't care.
   link: '/'
-  language: en
+  language: zh-CN
   multi_language: true
   logo: ./resources/images/avator.png
   avatar: ./resources/images/avator.png
@@ -56,6 +56,34 @@ menu:
   Tags: true
   Archives: true
   Friends: false
+  SiteRepositories:
+    name: 'Site Repositories'
+    i18n:
+      en: Site Repositories
+      zh-CN: 站点仓库
+      zh-TW: 站點倉庫
+    children:
+      this:
+        name: 'This Website'
+        i18n:
+          en: This Website
+          zh-CN: 当前网站
+          zh-TW: 當前網站
+        path: 'https://github.com/SheepYhangCN/sheepyhangcn.github.io'
+      Hexo:
+        name: 'Hexo'
+        i18n:
+          en: Hexo
+          zh-CN: Hexo
+          zh-TW: Hexo
+        path: 'https://hexo.io'
+      Aurora:
+        name: 'Aurora Theme'
+        i18n:
+          en: Aurora Theme
+          zh-CN: Aurora 主题
+          zh-TW: Aurora 主題
+        path: 'https://github.com/Aurora/hexo-theme-Aurora'
 
 #! ---------------------------------------------------------------
 #! Theme Config
