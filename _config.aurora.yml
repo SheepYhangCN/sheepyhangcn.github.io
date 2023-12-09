@@ -57,11 +57,11 @@ menu:
   Archives: true
   Friends: false
   Site:
-    name: 'Site'
+    name: 'About Site'
     i18n:
-      en: Site
-      zh-CN: 站点
-      zh-TW: 站點
+      en: About Site
+      zh-CN: 关于本站
+      zh-TW: 關於本站
     children:
       this:
         name: 'Github Repositories'
