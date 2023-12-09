@@ -56,19 +56,19 @@ menu:
   Tags: true
   Archives: true
   Friends: false
-  SiteRepositories:
-    name: 'Site Repositories'
+  Site:
+    name: 'Site'
     i18n:
-      en: Site Repositories
-      zh-CN: 站点仓库
-      zh-TW: 站點倉庫
+      en: Site
+      zh-CN: 站点
+      zh-TW: 站點
     children:
       this:
-        name: 'This Website'
+        name: 'Github Repositories'
         i18n:
-          en: This Website
-          zh-CN: 当前网站
-          zh-TW: 當前網站
+          en: Github Repositories
+          zh-CN: Github 仓库
+          zh-TW: Github 倉庫
         path: 'https://github.com/SheepYhangCN/sheepyhangcn.github.io'
       Hexo:
         name: 'Hexo'
