@@ -3,12 +3,12 @@ title: about
 date: 2023-12-09 00:10:00
 ---
 
-## 你谁？
+## “你谁？”
 
 憨憨羊の宇航鸽鸽，直接叫我宇航即可
 外网常用名SheepYhangCN
 
-## 你是干嘛的？
+## “你是干嘛的？”
 Minecraft指令师
 同人/独立游戏制作者
 Warmtale前负责人
@@ -35,7 +35,7 @@ Hammer造地图只会无脑堆breakable
 有时候会搬点外网视频 想的话会顺便翻译
 曾经是游戏实况up 现在看心情发
 
-## 看看成分？
+## “看看成分？”
 <details><summary>成分，应该不全，想到再补</summary>
 Minecraft<br>
 Undertale<br>
@@ -80,18 +80,18 @@ VRChat
 不玩米哈游 不玩任何国服
 不喜欢圈子的概念 所以理论上来说不主混任何圈 只是个路过的随心情创作者
 
-## 参与过的本地化项目？
+## 参与过的本地化项目
 LabyMod - 简体中文/繁体中文
 Facing Demons - 简体中文
 Storyshift Asriel Fight By IGB Team - 简体中文/繁体中文
 Undertale: Bits and Pieces - 简体中文
-还有，想到再补
+还有别的，想到再补
 
-## 在做什么项目？
+## 手头的游戏项目
 [OMORITALE](https://gamejolt.com/games/OMORITALE/685985)
 还有别的未公布项目
 
-## 看看各平台链接？
+## “看看你的？”
 [BiliBili](https://space.bilibili.com/252906762)
 [YouTube](https://www.youtube.com/@SheepYhangCN)
 [Github](https://github.com/SheepYhangCN)
@@ -101,3 +101,10 @@ Undertale: Bits and Pieces - 简体中文
 [itch.io](https://sheepyhangcn.itch.io/)
 [Gamejolt](https://gamejolt.com/@SheepYhangCN)
 [Steam](https://steamcommunity.com/id/SheepYhangCN)
+
+## 联系我
+按照优先度排列，没事尽量不要找我扩列
+ - 哔哩哔哩私聊
+ - 电子邮箱：sheepyuhang@163.com
+ - Discord：sheepyhangcn
+ - QQ：973883035
