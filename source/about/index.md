@@ -101,6 +101,7 @@ Undertale: Bits and Pieces - 简体中文
 [itch.io](https://sheepyhangcn.itch.io/)
 [Gamejolt](https://gamejolt.com/@SheepYhangCN)
 [Steam](https://steamcommunity.com/id/SheepYhangCN)
+[Twitch](https://www.twitch.tv/sheepyhangcn)
 
 ## 联系我
 按照优先度排列，没事尽量不要找我扩列
