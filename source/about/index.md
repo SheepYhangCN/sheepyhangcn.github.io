@@ -86,6 +86,7 @@ LabyMod - 简体中文/繁体中文
 Facing Demons - 简体中文
 Storyshift Asriel Fight By IGB Team - 简体中文/繁体中文
 Undertale: Bits and Pieces - 简体中文
+Undertale: Yellow - 简体中文（非官方）
 还有别的，想到再补
 
 ## 手头的游戏项目
@@ -93,7 +94,7 @@ Undertale: Bits and Pieces - 简体中文
 还有别的未公布项目
 
 ## “看看你的？”
-[BiliBili](https://space.bilibili.com/252906762)
+[哔哩哔哩](https://space.bilibili.com/252906762)
 [YouTube](https://www.youtube.com/@SheepYhangCN)
 [Twitch](https://www.twitch.tv/sheepyhangcn)
 [Github](https://github.com/SheepYhangCN)
