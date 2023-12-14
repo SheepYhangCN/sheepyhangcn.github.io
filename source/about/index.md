@@ -18,7 +18,7 @@ Team xD总负责人
 非专业译者（英文⇆简/繁中）
 曾经使用GameMaker，现在使用Godot 4 Mono制作游戏
 
-<details><summary>属于是啥都会 但都仅限于会一点 不能会多了</summary>
+:::details 属于是啥都会 但都仅限于会一点 不能会多了
 MC指令做不出大项目
 Blockbench只会无脑堆cube
 术力口只会套midi
@@ -29,53 +29,53 @@ Blockbench只会无脑堆cube
 像素画只会正面视角不会打光
 MMD只会套motion
 Hammer造地图只会无脑堆breakable
-</details>
+:::
 
 在学习日语 目前学习到あいうえお（x
 有时候会搬点外网视频 想的话会顺便翻译
 曾经是游戏实况up 现在看心情发
 
 ## “看看成分？”
-<details><summary>成分，应该不全，想到再补</summary>
-Minecraft<br>
-Undertale<br>
-Deltarune<br>
-东方Project<br>
-OneShot<br>
-OMORI<br>
-Henry Stickmin<br>
-Pizza Tower<br>
-宅男的人间冒险<br>
-塞尔达传说<br>
-宝可梦<br>
-Splatoon<br>
-Super Mario Bros<br>
-星之卡比<br>
-Doki Doki Literature Club<br>
-Vocaloid<br>
-Counter-Strike<br>
-Half-Life<br>
-Portal<br>
-Left 4 Dead<br>
-Garry's Mod<br>
-s&box<br>
-Grand Theft Auto<br>
-逆转裁判<br>
-三体<br>
-Rick And Morty<br>
-喜羊羊与灰太狼<br>
-名侦探柯南<br>
-某科学的超电磁炮<br>
-间谍过家家<br>
-My Little Pony<br>
-神奇数字马戏团<br>
-Roblox<br>
-Plants Vs Zombies<br>
-Phigros<br>
-MuseDash<br>
-世界计划<br>
+:::details 成分，应该不全，想到再补
+Minecraft
+Undertale
+Deltarune
+东方Project
+OneShot
+OMORI
+Henry Stickmin
+Pizza Tower
+宅男的人间冒险
+塞尔达传说
+宝可梦
+Splatoon
+Super Mario Bros
+星之卡比
+Doki Doki Literature Club
+Vocaloid
+Counter-Strike
+Half-Life
+Portal
+Left 4 Dead
+Garry's Mod
+s&box
+Grand Theft Auto
+逆转裁判
+三体
+Rick And Morty
+喜羊羊与灰太狼
+名侦探柯南
+某科学的超电磁炮
+间谍过家家
+My Little Pony
+神奇数字马戏团
+Roblox
+Plants Vs Zombies
+Phigros
+MuseDash
+世界计划
 VRChat
-</details>
+:::
 
 不玩任何手游（PJSK和Phigros是特例
 不玩米哈游 不玩任何国服

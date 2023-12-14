@@ -16,7 +16,8 @@ tags:
 修改Undertale Mod Tool的脚本
 使它只导出开头为```* ```的字符串
 不难做，加上if即可
-<details><summary>ExportAllStringsAsterisk.csx</summary>
+
+:::details ExportAllStringsAsterisk.csx
 ```
 using System.Text;
 using System;
@@ -56,12 +57,13 @@ using (StreamWriter writer = new StreamWriter(stringsPath))
     }
 }
 ```
-</details>
+:::
+
 不过 导入就有点麻烦了
 utmt自带的脚本我属实看不明白
 所以我的选择是，用基于Export改一个Import
 
-<details><summary>ImportAllStringsAsterisk.csx</summary>
+:::details ImportAllStringsAsterisk.csx
 ```
 using System.Text;
 using System;
@@ -108,9 +110,9 @@ using (StreamReader reader = new StreamReader(stringsPath))
         a+=1;
     }
 }
-
 ```
-</details>
+:::
+
 这样就可以导出导入所有星号开头的字符串
 可以开始上传Crowdin了
 
