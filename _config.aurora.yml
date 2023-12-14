@@ -16,8 +16,8 @@ site:
   link: '/'
   language: zh-CN
   multi_language: false
-  logo: ./resources/images/avator.png
-  avatar: ./resources/images/avator.png
+  logo: /resources/images/avator.png
+  avatar: /resources/images/avator.png
   beian:
     number: ''
     link: ''
