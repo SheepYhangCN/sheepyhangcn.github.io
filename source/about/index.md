@@ -102,18 +102,7 @@ UsualTale Sans Fight - 英文/繁体中文
 还有别的未公布项目
 
 ## “看看你的？”
-[哔哩哔哩](https://space.bilibili.com/252906762)
-[YouTube](https://www.youtube.com/@SheepYhangCN)
-[Twitch](https://www.twitch.tv/sheepyhangcn)
-[Github](https://github.com/SheepYhangCN)
-[Gitlab](https://gitlab.com/SheepYhangCN)
-[Mastodon](https://mastodon.social/@SheepYhangCN)
-[Twitter](https://twitter.com/YuhangOscar233)
-[itch.io](https://sheepyhangcn.itch.io/)
-[Gamejolt](https://gamejolt.com/@SheepYhangCN)
-[Steam](https://steamcommunity.com/id/SheepYhangCN)
-[Patreon](https://www.patreon.com/SheepYhangCN)
-[爱发电](https://afdian.net/a/SheepYhangCN)
+[lit.link](https://lit.link/sheepyuhang)
 
 ## 联系我
 按照优先度排列，没事尽量不要找我扩列
