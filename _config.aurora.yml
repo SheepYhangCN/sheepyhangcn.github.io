@@ -83,7 +83,7 @@ menu:
           en: Aurora Theme
           zh-CN: Aurora 主题
           zh-TW: Aurora 主題
-        path: 'https://github.com/Aurora/hexo-theme-Aurora'
+        path: 'https://github.com/auroral-ui/hexo-theme-aurora'
 
 #! ---------------------------------------------------------------
 #! Theme Config
