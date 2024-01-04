@@ -84,6 +84,13 @@ menu:
           zh-CN: Aurora 主题
           zh-TW: Aurora 主題
         path: 'https://github.com/auroral-ui/hexo-theme-aurora'
+  Link:
+    name: 'Links (lit.link)'
+    i18n:
+      en: Links (lit.link)
+      zh-CN: 各平台 (lit.link)
+      zh-TW: 各平台 (lit.link)
+    path: 'https://lit.link/sheepyuhang'
 
 #! ---------------------------------------------------------------
 #! Theme Config
