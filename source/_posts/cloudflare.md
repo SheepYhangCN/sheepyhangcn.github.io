@@ -1,5 +1,5 @@
 ---
-title: Namesilo+Cloudflare给博客加上了自己的域名和CDN加速
+title: Namesilo域名+CDN加速
 date: 2024-01-18 01:10:32
 tags:
  - Blog
@@ -70,3 +70,8 @@ github.io直连
 
 那我费那么大劲弄CF干嘛
 还不如上阿里云CDN 麻了
+
+## 后续
+2024-1-28 我又换成了阿里云CDN
+但是目前测试阿里云CDN仍然没有直连的速度好
+太奇怪了
