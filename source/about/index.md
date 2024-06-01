@@ -60,6 +60,7 @@ Minecraft
 Undertale
 Deltarune
 东方Project
+Cookie☆
 OneShot
 OMORI
 OutCore
