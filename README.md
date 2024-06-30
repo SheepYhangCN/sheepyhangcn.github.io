@@ -1,2 +1,2 @@
 Hexo + Aurora<br>
-Namesilo Domain + Aliyun CDN
+Namesilo Domain + Cloudflare CDN
