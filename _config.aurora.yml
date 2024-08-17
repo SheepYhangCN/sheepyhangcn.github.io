@@ -84,6 +84,20 @@ menu:
           zh-CN: Aurora 主题
           zh-TW: Aurora 主題
         path: 'https://github.com/auroral-ui/hexo-theme-aurora'
+      Atom:
+        name: 'RSS Feed'
+        i18n:
+          en: RSS Feed (Atom)
+          zh-CN: RSS 源 (Atom)
+          zh-TW: RSS 源 (Atom)
+        path: 'https://sheepyuhang.top/atom.xml'
+      RSS2:
+        name: 'RSS Feed'
+        i18n:
+          en: RSS Feed (RSS 2.0)
+          zh-CN: RSS 源 (RSS 2.0)
+          zh-TW: RSS 源 (RSS 2.0)
+        path: 'https://sheepyuhang.top/rss2.xml'
   Link:
     name: 'Links (lit.link)'
     i18n:
