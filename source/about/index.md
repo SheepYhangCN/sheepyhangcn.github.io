@@ -16,24 +16,19 @@ OMORITALE主创
 Team xD总负责人
 憨憨羊工作室室长
 非专业译者（英文/简中/繁中）
-曾经使用GameMaker，现在使用Godot 4 Mono制作游戏
-
-:::details 属于是啥都会 但都仅限于会一点 不能会多了
-MC指令做不出大项目
-Blockbench只会无脑堆cube
-术力口只会套midi
-写代码只会遵循能用就行原则
-做游戏天天只会重构底层
-剪辑做不出高端特效
-画画只会画简笔画不会打阴影
-像素画只会正面视角不会打光
-MMD只会套motion
-Hammer造地图只会无脑堆breakable
-:::
+曾经使用GameMaker，现在使用Godot 4 (.NET)制作游戏
 
 在学习日语 目前学习到あいうえお（x
 有时候会搬点外网视频 想的话会顺便翻译
-曾经是游戏实况up 现在看心情发
+
+2017年至今 录制游戏实况，2022年开始往后几乎没了，看心情做
+2020年至2021年 制作Minecraft地图、资源包、指令包
+2022年 做Undertale同人游戏汉化
+2022年至今 各种项目的简/繁体中文本地化工作
+2022年至2023年 制作Undertale同人游戏
+2023年 做术力口翻调 后续太久没做忘干净了所以就没做了
+2023年至今 制作MMD，技术力不高，基本都是套动作
+2023年至今 做东方同人游戏，未公开
 
 :::details 关于我个人
 MBTI：INTP-T
@@ -108,17 +103,11 @@ VRChat
 不喜欢圈子的概念 所以理论上来说不主混任何圈 只是个路过的随心情创作者
 
 ## 参与过的本地化项目
-### 团队项目
 LabyMod - 简体中文/繁体中文
 Undertale: Bits and Pieces - 简体中文（官方授权）
 Facing Demons - 简体中文
 Storyshift Asriel Fight By IGB Team - 简体中文/繁体中文
 Undertale: Yellow - 简体中文（非官方）
-### 个人项目（官方）
-Overtime Dell Fight by Cxx - 简体中文
-TeamCandid Ink Sans Fight - 英文
-Portal Neuro Mod - 简体中文/繁体中文
-UsualTale Sans Fight - 英文/繁体中文
 
 还有别的，想到再补
 
