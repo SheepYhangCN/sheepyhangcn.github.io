@@ -96,6 +96,7 @@ MuseDash
 世界计划
 VRChat
 孤独摇滚
+Maimai DX
 :::
 
 不玩任何手游（PJSK和Phigros是特例
