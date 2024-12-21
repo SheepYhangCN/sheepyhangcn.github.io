@@ -22,7 +22,7 @@ Minecraft指令师
 ```English``` ```中文（简体/繁體）``` ```汉语（普通话/粵語）```
 ```C#``` ```Python``` ```GameMaker Language``` ```GDScript```
 
-:::detail 互联网历程
+:::details 互联网历程
 2017年至今 录制游戏实况，2022年开始往后几乎没了，看心情做
 2020年至2021年 制作Minecraft地图、资源包、指令包
 2022年 做Undertale同人游戏汉化
