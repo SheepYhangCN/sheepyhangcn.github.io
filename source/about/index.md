@@ -109,7 +109,9 @@ MuseDash
 VRChat
 孤独摇滚
 Maimai DX
+Neuro-sama
 Girls Band Cry
+MyGO / Ave Mujica
 :::
 
 不玩任何手游（PJSK和Phigros是特例
