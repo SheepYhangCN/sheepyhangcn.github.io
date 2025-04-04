@@ -7,6 +7,7 @@ tags:
  - 汉化
  - Crowdin
  - Weblate
+ - GameMaker
 ---
 
 2023年12月22日 我的Crowdin账户因为超过限额而被暂停
