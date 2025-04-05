@@ -22,11 +22,11 @@ tags:
 然后用[脚本](https://github.com/UTCLC/DTTLR-ILStringExtract/blob/main/StringsExtract.py)来从 IL 中提取所有的字符串
 脚本会自动按照算法筛选分类出五类文本
 ```
-```asterisk.json```：含有```* ```的，基本可以确定是正常对话文本，可以无脑翻译
-```slash_underline.json```：含有斜杠或下划线的，基本可以确定不需要翻译
-```space.json```：含有空格的，基本都是菜单选项或者对话的后半段，可以看着来翻译
-```upper.json```：含有大写的
-```others.json```：剩下的
+asterisk.json：含有「* 」的，基本可以确定是正常对话文本，可以无脑翻译
+slash_underline.json：含有斜杠或下划线的，基本可以确定不需要翻译
+space.json：含有空格的，基本都是菜单选项或者对话的后半段，可以看着来翻译
+upper.json：含有大写的
+others.json：剩下的
 ```
 把这些 json 分别上传到 Weblate 作为英文即可
 
