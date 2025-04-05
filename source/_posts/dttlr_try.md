@@ -53,7 +53,7 @@ IL → dll ```C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ilasm.exe```
 可以用 AssetStudioMod 打开整个目录后右键 Show original file
 UABEA 多文件加载速度是真的慢
 ```
-然后筛选 MonoBehavior 类型
+然后筛选 MonoBehaviour 类型
 用 UABEA 全选并全部 Dump 为 UABEA Json 文件即可
 ![UABEA](./resources/images/dttlr_try/UABEA.png)
 目前发现了会出现的三种类型的文本
