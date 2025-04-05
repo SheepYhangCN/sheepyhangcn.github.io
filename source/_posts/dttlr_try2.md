@@ -66,3 +66,11 @@ Deltatraverler 是按照 Determination 字体的尺寸加载的
 那么就是资源导炸了 需要回档重新导
 如果是进入 Deltatraveler 自己的 ExceptionHandler
 那么就是 DLL 出问题了 很大概率是某个资源名被翻译了
+
+## v3.1.0p4 也干了
+更新到 v3.1.0p4 之后一个莫名其妙的 Bug
+如果按窗口的 X 关闭游戏而不是长按 Esc
+会导致卡一个 Deltatraverler 的进程在后台
+然后就无法再打开了
+要用任务管理器手动杀掉
+所以可能发布的时候得在游戏目录里加一个 bat 来一键杀除
