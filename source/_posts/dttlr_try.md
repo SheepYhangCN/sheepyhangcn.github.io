@@ -1,11 +1,11 @@
 ---
-title: Deltatraveler 汉化初尝试
+title: DELTATRAVELER 汉化初尝试
 date: 2025-04-05 00:07:45
 tags: 
  - 汉化
  - Undertale
  - Unity
- - Deltatraveler
+ - DELTATRAVELER
 ---
 
 Undertale Yellow 的项目也算是结束了

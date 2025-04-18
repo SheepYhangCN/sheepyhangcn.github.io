@@ -1,11 +1,11 @@
 ---
-title: Deltatraveler 汉化初尝试²
+title: DELTATRAVELER 汉化初尝试²
 date: 2025-04-06 03:14:02
 tags: 
  - 汉化
  - Undertale
  - Unity
- - Deltatraveler
+ - DELTATRAVELER
 ---
 
 经过了熬夜一个晚上的研究
