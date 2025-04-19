@@ -38,6 +38,11 @@ others.json：剩下的
 ## 字体
 和 UTMT 类似，需要有一个从现成的 Unity 游戏用 UABEA 拔出来的字体
 所以被迫装一个 Unity
+UABEA 只能导出二进制 dat 资源
+用 AssetStudioMod 可以导出 ttf/otf 字体
+导出来的字体文件然后再用 FontCreator 进行一个中英合并
+然后导入 Unity 就行
+
 Gamejolt 上的最新版 v3.0.10 用的是 2018.3.14f1
 就用这个版本开了个[项目](https://github.com/UTCLC/DTTLR-FontsUnityProj)导入了字体
 后来经过提醒发现有测试版 v3.1.0p4
