@@ -14,7 +14,7 @@ byd这还能有3的
 首先是解出来的 IL 里缺失了一些文本
 搜了一下发现被弄成 bytearray 了
 ![before](./resources/images/dttlr_try3/before.png)
-这些文本的共同点就是都含有 ```\\b```
+这些文本的共同点就是都含有 ```\b```
 咱也不知道为啥要有这东西 意义不明
 但是有了这玩意之后 ildasm 就会解成 bytearray
 但是反过来 把解出来的 bytearray 改写成字符串是可以正常重新封成 DLL 的
