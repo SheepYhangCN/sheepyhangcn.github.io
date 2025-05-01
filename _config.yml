@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 
+title: 宇航の鸽子窝
 subtitle: ''
 description: ''
 keywords: 
-author: SheepYhangCN
-language: zh-Hans
+author: 憨憨羊の宇航鸽鸽
+language: zh-CN
 timezone: 'Asia/Hong_Kong'
 
 # URL
@@ -45,14 +45,14 @@ relative_link: false
 future: true
 syntax_highlighter: highlight.js
 highlight:
-  line_number: false #true
+  line_number: true
   auto_detect: false
   tab_replace: ''
-  wrap: false #true
+  wrap: true
   hljs: false
 prismjs:
-  preprocess: false #true
-  line_number: false #true
+  preprocess: true
+  line_number: true
   tab_replace: ''
 
 # Home page setting
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: aurora
+theme: nexmoe
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -112,3 +112,22 @@ feed:
     - atom.xml
     - rss2.xml
   limit: false
+
+jsonContent:
+  meta: false
+  pages: false
+  posts:
+    title: true 
+    date: false 
+    path: true 
+    text: true
+    raw: false
+    content: false
+    slug: false
+    updated: false
+    comments: false
+    link: false
+    permalink: false
+    excerpt: false
+    categories: false
+    tags: false

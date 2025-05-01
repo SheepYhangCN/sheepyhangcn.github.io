@@ -1,6 +1,7 @@
 ---
 title: Undertale Yellow 汉化技术问题记录【3】
 date: 2023-12-25 19:06:24
+cover: /resources/images/weblate/account_paused.png
 tags: 
  - Undertale
  - Undertale Yellow
@@ -36,7 +37,8 @@ Crowdin规定免费账户最多可以托管60000个单词
 把我之前写的ImportAllStringsAsterisk改一改即可
 虽然实际方法非常弱智
 
-:::details WeblateImportAllStringsAsterisk.csx
+<details>
+<summary>WeblateImportAllStringsAsterisk.csx</summary>
 ```
 using System.Text;
 using System;
@@ -91,7 +93,7 @@ using (StreamReader reader = new StreamReader(stringsPath.Replace("strings.txt",
 }
 
 ```
-:::
+</details>
 
 本来天机写的是在```str.Content=reader.ReadLine()```之后再单独执行一次```reader.ReadLine()```
 but don't know why, it just won't work, and it will break ```data.win```
