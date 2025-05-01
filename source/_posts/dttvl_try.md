@@ -56,11 +56,11 @@ UABEA 多文件加载速度是真的慢
 ```
 然后筛选 MonoBehaviour 类型
 用 UABEA 全选并全部 Dump 为 UABEA Json 文件即可
-![UABEA](./resources/images/dttlr_try/UABEA.png)
+![UABEA](./resources/images/dttvl_try/UABEA.png)
 目前发现了会出现的三种类型的文本
 ```m_Text``` 是单个文本
 ```lines```与```phrases``` 是对话组
-用[脚本](https://github.com/UTCLC/DTTLR-UABEAJsonTextCollect/blob/main/UABEAJsonTextCollect.py)把这些key对应的文本从json里提取出来即可
+用[脚本](https://github.com/UTCLC/DTTVL-UABEAJsonTextCollect/blob/main/UABEAJsonTextCollect.py)把这些key对应的文本从json里提取出来即可
 和前面的 DLL 同理，后续加一下条件限制就可以了
 汉化好后用前面的脚本重新生成这些json
 然后用 UABEA 导入 Dump

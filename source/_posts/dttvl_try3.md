@@ -14,7 +14,7 @@ byd这还能有3的
 ## bytearray
 首先是解出来的 IL 里缺失了一些文本
 搜了一下发现被弄成 bytearray 了
-![before](./resources/images/dttlr_try3/before.png)
+![before](./resources/images/dttvl_try3/before.png)
 这些文本的共同点就是都含有 ```\\b```
 咱也不知道为啥要有这东西 意义不明
 但是有了这玩意之后 ildasm 就会解成 bytearray
@@ -27,7 +27,7 @@ byd这还能有3的
 所以我决定进行一个科技改变生活
 让 DeepSeek 给我写一个
 嗯，然后就这样，[脚本](https://github.com/UTCLC/ILBytearraysConvert/blob/master/ILBytearraysConvert.py)
-![after](./resources/images/dttlr_try3/after.png)
+![after](./resources/images/dttvl_try3/after.png)
 
 ## 更新翻译文件
 之前说过，翻译文件的 json 是使用行数作为 key 的
@@ -36,7 +36,7 @@ byd这还能有3的
 但是为了避免以后需要修改 dll
 还是得想一个解决方法
 
-然后，嗯，又是 ds，[脚本](https://github.com/UTCLC/DTTLR-ILStringExtract/blob/main/UpdateLineAfterUpdated.py)
+然后，嗯，又是 ds，[脚本](https://github.com/UTCLC/DTTVL-ILStringExtract/blob/main/UpdateLineAfterUpdated.py)
 我太不想进步了（x
 
 不过要更新还是很麻烦

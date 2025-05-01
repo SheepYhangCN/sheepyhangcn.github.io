@@ -14,13 +14,13 @@ tags:
 
 ## 文本
 用 UABEA Dump 出 MonoBehaviour 的 json
-然后用[脚本](https://github.com/UTCLC/DTTLR-UABEAJsonTextCollect/blob/main/UABEAJsonTextCollect.py)来从 json 中提取所有的```m_Text``` ```lines``` ```phrases```
+然后用[脚本](https://github.com/UTCLC/DTTVL-UABEAJsonTextCollect/blob/main/UABEAJsonTextCollect.py)来从 json 中提取所有的```m_Text``` ```lines``` ```phrases```
 生成的 json 上传到 Weblate 作为英文即可
 这些文本修改了基本不会出现影响游戏的情况
 也就不用再加筛选算法了
 
 用 ```ildasm.exe``` 打开 DLL 并 Dump 出 IL
-然后用[脚本](https://github.com/UTCLC/DTTLR-ILStringExtract/blob/main/StringsExtract.py)来从 IL 中提取所有的字符串
+然后用[脚本](https://github.com/UTCLC/DTTVL-ILStringExtract/blob/main/StringsExtract.py)来从 IL 中提取所有的字符串
 脚本会自动按照算法筛选分类出五类文本
 ```
 asterisk.json：含有「* 」的，基本可以确定是正常对话文本，可以无脑翻译
@@ -45,7 +45,7 @@ UABEA 只能导出二进制 dat 资源
 然后导入 Unity 就行
 
 Gamejolt 上的最新版 v3.0.10 用的是 2018.3.14f1
-就用这个版本开了个[项目](https://github.com/UTCLC/DTTLR-FontsUnityProj)导入了字体
+就用这个版本开了个[项目](https://github.com/UTCLC/DTTVL-FontsUnityProj)导入了字体
 后来经过提醒发现有测试版 v3.1.0p4
 这个版本用的是 Unity 6
 只能说还好我手上的是国际版的 Unity Hub 不然真没辙
@@ -56,12 +56,12 @@ Gamejolt 上的最新版 v3.0.10 用的是 2018.3.14f1
 ### 字体尺寸问题
 Deltatraverler 是按照 Determination 字体的尺寸加载的
 如果使用 DTM+其它中文字体 的融合字体方案就会导致中文字体尺寸不合而变形
-![options](./resources/images/dttlr_try2/options.png)
+![options](./resources/images/dttvl_try2/options.png)
 
 之前参与过 UTY 项目的晓晓也帮忙尝试了重新编排一次英文使得中英尺寸相同的方案
 然后结果是
 不仅中文没好 英文也一起变形了
-![new_font](./resources/images/dttlr_try2/new_font.png)
+![new_font](./resources/images/dttvl_try2/new_font.png)
 (注意那个百分号)
 
 所以，嗯，目前这个问题还没解决
