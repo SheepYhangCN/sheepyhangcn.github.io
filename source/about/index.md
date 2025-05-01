@@ -137,7 +137,7 @@ Undertale: Yellow - 简体中文（非官方）
 ## 联系我
 按照优先度排列，没事尽量不要找我扩列
  - [哔哩哔哩私聊](https://message.bilibili.com/#/whisper/mid252906762)
- - 电子邮箱：sheepyuhang@163.com
+ - 电子邮箱：contact@sheepyuhang.top
  - Discord：sheepyhangcn
  - QQ：973883035
 
