@@ -70,12 +70,12 @@ widgets:
                 - rgb(25, 23, 23)
                 - rgba(25, 23, 23, .1)
             RSS 源（RSS 2.0）:
-                - https://sheepyuhang.top/rss2.xml
+                - /rss2.xml
                 - icon-rss
                 - rgb(249, 174, 8)
                 - rgba(249, 174, 8, .1)
             RSS 源（Atom）:
-                - https://sheepyuhang.top/atom.xml
+                - /atom.xml
                 - icon-rss
                 - rgb(247, 132, 34)
                 - rgba(247, 132, 34, .1)
