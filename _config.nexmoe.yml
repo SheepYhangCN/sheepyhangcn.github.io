@@ -49,11 +49,21 @@ widgets:
       enable: true
       options: 
         social:
+            电子邮箱: 
+                - mailto:contact@sheepyuhang.top
+                - icon-mail-fill
+                - rgb(0, 128, 255)
+                - rgba(0, 128, 255, .1)
             哔哩哔哩:
                 - https://space.bilibili.com/252906762
                 - icon-bilibili
                 - rgb(231, 106, 141)
                 - rgba(231, 106, 141, .1)
+            YouTube: 
+                - https://www.youtube.com/@SheepYhangCN
+                - icon-youtube
+                - rgb(255, 60, 60)
+                - rgba(255, 60, 60, .1)
             GitHub:
                 - https://github.com/SheepYhangCN
                 - icon-github
