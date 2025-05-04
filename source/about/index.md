@@ -1,6 +1,6 @@
 ---
-title: about
-date: 2023-12-09 00:10:00
+title: 关于
+date: 1
 ---
 
 ## “你谁？”
@@ -22,7 +22,9 @@ UNDERTALE 中文本地化社区 建立者
 ```English``` ```中文（简体/繁體）``` ```汉语（普通话/粵語）```
 ```C#``` ```Python``` ```GameMaker Language``` ```GDScript```
 
-:::details 互联网历程
+<details>
+<summary>互联网历程</summary>
+
 2017年至今 - 录制游戏实况，2022年开始往后几乎没了，看心情做
 2020年至2021年 - 制作 Minecraft 地图、资源包、指令包
 2022年 - 做 Undertale 同人游戏汉化
@@ -31,9 +33,11 @@ UNDERTALE 中文本地化社区 建立者
 2023年 - 做术力口翻调 后续太久没做忘干净了所以就没做了
 2023年至今 - 制作 MMD，技术力不高，基本都是套动作
 2023年至今 - 做东方同人游戏，未公开
-:::
+</details>
+<br>
+<details>
+<summary>关于我个人</summary>
 
-:::details 关于我个人
 MBTI：INTP-T
 
 特立独行 不爱随波逐流 不爱公开站队
@@ -63,10 +67,12 @@ MBTI：INTP-T
 最喜欢的音乐：
 王七七《人生态度》
 （被下架的旧版，新版的词不喜欢）
-:::
+</details>
 
 ## “看看成分？”
-:::details 成分，应该不全，想到再补
+<details>
+<summary>成分，应该不全，想到再补</summary>
+
 Minecraft
 Undertale
 Deltarune
@@ -112,7 +118,7 @@ Maimai DX
 Neuro-sama
 Girls Band Cry
 MyGO / Ave Mujica
-:::
+</details>
 
 不玩任何手游（PJSK和Phigros是特例
 不玩米哈游 不玩腾讯 不玩网易 不玩任何国服

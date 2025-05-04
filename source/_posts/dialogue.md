@@ -1,6 +1,7 @@
 ---
 title: Undertale Yellow 汉化技术问题记录【4】
 date: 2024-02-11 22:10:43
+cover: /resources/images/dialogue/choice.png
 tags:
  - Undertale
  - Undertale Yellow

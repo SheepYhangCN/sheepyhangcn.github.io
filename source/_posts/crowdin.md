@@ -1,6 +1,7 @@
 ---
 title: Undertale Yellow 汉化技术问题记录【2】
 date: 2023-12-13 19:00:54
+cover: /resources/images/crowdin/candy_spare.png
 tags: 
  - Undertale
  - Undertale Yellow
@@ -18,7 +19,8 @@ tags:
 使它只导出开头为```* ```的字符串
 不难做，加上if即可
 
-:::details ExportAllStringsAsterisk.csx
+<details>
+<summary>ExportAllStringsAsterisk.csx</summary>
 ```
 using System.Text;
 using System;
@@ -58,13 +60,14 @@ using (StreamWriter writer = new StreamWriter(stringsPath))
     }
 }
 ```
-:::
+</details>
 
 不过 导入就有点麻烦了
 utmt自带的脚本我属实看不明白
 所以我的选择是，用基于Export改一个Import
 
-:::details ImportAllStringsAsterisk.csx
+<details>
+<summary>ImportAllStringsAsterisk.csx</summary>
 ```
 using System.Text;
 using System;
@@ -112,7 +115,8 @@ using (StreamReader reader = new StreamReader(stringsPath))
     }
 }
 ```
-:::
+
+</details>
 
 这样就可以导出导入所有星号开头的字符串
 可以开始上传Crowdin了
