@@ -129,6 +129,7 @@ LabyMod - 简体中文/繁体中文
 Undertale: Bits and Pieces - 简体中文（官方授权）
 Facing Demons - 简体中文
 Storyshift Asriel Fight By IGB Team - 简体中文/繁体中文
+STORYFELL Papyrus Fight By IGB Team - 繁体中文
 Undertale: Yellow - 简体中文（非官方）
 
 还有别的，想到再补
