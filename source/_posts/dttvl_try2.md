@@ -14,13 +14,13 @@ tags:
 
 ## 文本
 用 UABEA Dump 出 MonoBehaviour 的 json
-然后用[脚本](https://github.com/UTCLC/DTTVL-UABEAJsonTextCollect/blob/main/UABEAJsonTextCollect.py)来从 json 中提取所有的```m_Text``` ```lines``` ```phrases```
+然后用[脚本](https://github.com/UTCLC/DTTVL-Scripts/blob/main/UABEAJsonTextCollect.py)来从 json 中提取所有的```m_Text``` ```lines``` ```phrases```
 生成的 json 上传到 Weblate 作为英文即可
 这些文本修改了基本不会出现影响游戏的情况
 也就不用再加筛选算法了
 
 用 ```ildasm.exe``` 打开 DLL 并 Dump 出 IL
-然后用[脚本](https://github.com/UTCLC/DTTVL-ILStringExtract/blob/main/StringsExtract.py)来从 IL 中提取所有的字符串
+然后用[脚本](https://github.com/UTCLC/DTTVL-Scripts/blob/main/ILStringsExtract.py)来从 IL 中提取所有的字符串
 脚本会自动按照算法筛选分类出五类文本
 ```
 asterisk.json：含有「* 」的，基本可以确定是正常对话文本，可以无脑翻译

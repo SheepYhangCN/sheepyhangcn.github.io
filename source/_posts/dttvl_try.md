@@ -60,7 +60,7 @@ UABEA 多文件加载速度是真的慢
 目前发现了会出现的三种类型的文本
 ```m_Text``` 是单个文本
 ```lines```与```phrases``` 是对话组
-用[脚本](https://github.com/UTCLC/DTTVL-UABEAJsonTextCollect/blob/main/UABEAJsonTextCollect.py)把这些key对应的文本从json里提取出来即可
+用[脚本](https://github.com/UTCLC/DTTVL-Scripts/blob/main/UABEAJsonTextCollect.py)把这些key对应的文本从json里提取出来即可
 和前面的 DLL 同理，后续加一下条件限制就可以了
 汉化好后用前面的脚本重新生成这些json
 然后用 UABEA 导入 Dump
