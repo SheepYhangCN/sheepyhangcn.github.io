@@ -1,6 +1,8 @@
----
+﻿﻿---
 title: 自用MySQL学习笔记
 date: 2025-05-15 16:23:32
+tags:
+ - MySQL
 ---
 
 `<>`：参数
@@ -49,9 +51,6 @@ desc <表>;
 alter table <表>
 <命令>;
 ```
-修改列：`modify column <键> <类型> [约束条件]`
-添加主键约束条件：`add primary key (<键>)`
-添加外键约束条件：`add constraint key(<键>) references <表>(<键>)`
 命令：
 添加列：`add column <键> <类型> [约束条件]`
 修改列：`modify column <键> <类型> [约束条件]`
@@ -69,12 +68,20 @@ foreign key(<键>) references <表>(<键>);
 ## 表内容
 ### 获取
 ```
-select [distinct] */<键>,<键> from <表>
+select [distinct] <表达式>,<表达式> from <表>
 [limit 行数]
 [where 条件];
 [order by <键> [asc/desc], <键> [asc/desc]]
 ```
+表达式：`<键>` `*全选` `<统计函数>`
 `distinct`：去除重复
+
+#### 统计函数
+计数：`count(<键>)`
+总和：`sum(<键>)`
+平均：`avg(<键>)`
+最大：`max(<键>)`
+最小：`min(<键>)`
 
 ### 添加行
 ```
@@ -101,18 +108,15 @@ truncate table <表>;
 ```
 
 ### `where` 条件
-`<键/表达式> ><= <值>`
+`<表达式> ><= <值>`
 `and` `or`
-表达式：`+-*/加减乘除` `%取余` `//取整`
-datetime表达式：
-```
+表达式：`<键>` `+-*/加减乘除` `%取余` `//取整`
+#### datetime表达式
 日期部分：`date(<键>)`
 年部分：`year(<键>)`
 月部分：`month(<键>)`
 日部分：`day(<键>)`
-```
-介于时间之间
-`between <时间> and <时间>`
+介于时间之间：`between <时间> and <时间>`
 
 #### 字符串匹配
 `<键> like "匹配"`
