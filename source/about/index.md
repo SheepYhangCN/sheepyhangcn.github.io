@@ -20,7 +20,7 @@ UNDERTALE 中文本地化社区 建立者
 有时候会搬点外网视频 想的话会顺便翻译
 
 ```English``` ```中文（简体/繁體）``` ```汉语（普通话/粵語）```
-```C#``` ```Python``` ```GameMaker Language``` ```GDScript```
+```C#``` ```Python``` ```GameMaker``` ```Godot```
 
 <details>
 <summary>互联网历程</summary>
