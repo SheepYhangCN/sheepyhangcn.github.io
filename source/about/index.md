@@ -138,7 +138,7 @@ Undertale: Yellow - 简体中文（非官方）
 [OMORITALE](https://gamejolt.com/games/OMORITALE/685985)
 还有别的未公布项目
 
-## “看看你的？”
+## 社交平台
 [lit.link](https://lit.link/sheepyuhang)
 
 ## 联系我
