@@ -72,6 +72,7 @@ select [distinct] <表达式>,<表达式> from <表>
 [limit 行数]
 [where 条件];
 [order by <键> [asc/desc], <键> [asc/desc]]
+[group by <键> [having <表达式>]]
 ```
 表达式：`<键>` `*全选` `<统计函数>`
 `distinct`：去除重复
