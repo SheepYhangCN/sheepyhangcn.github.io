@@ -77,6 +77,22 @@ select [distinct] <表达式>,<表达式> from <表>
 表达式：`<键>` `*全选` `<统计函数>`
 `distinct`：去除重复
 
+#### 多表连接
+隐式内连接：`select <表>.<键>,<表>.<键> from <表>,<表> where <条件>;`
+显式内连接：`select <表>.<键>,<表>.<键> from <表> [inner] join <表> on <条件>;`
+显式外连接：`select <表>.<键>,<表>.<键> from <表> left/right/full [outer] join <表> on <条件>;`
+条件：
+```
+<表>.<键> = <表>.<键>
+```
+
+`select <表>.<键>,<表>.<键> from <表> full [outer] join <表> on <条件>;` = 
+'''
+select <表>.<键>,<表>.<键> from <表> left [outer] join <表> on <条件>
+union
+select <表>.<键>,<表>.<键> from <表> right [outer] join <表> on <条件>;
+'''
+
 #### 统计函数
 计数：`count(<键>)`
 总和：`sum(<键>)`
