@@ -87,11 +87,11 @@ select [distinct] <表达式>,<表达式> from <表>
 ```
 
 `select <表>.<键>,<表>.<键> from <表> full [outer] join <表> on <条件>;` = 
-'''
+```
 select <表>.<键>,<表>.<键> from <表> left [outer] join <表> on <条件>
 union
 select <表>.<键>,<表>.<键> from <表> right [outer] join <表> on <条件>;
-'''
+```
 
 #### 统计函数
 计数：`count(<键>)`
