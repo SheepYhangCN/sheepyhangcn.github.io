@@ -124,6 +124,14 @@ MyGO / Ave Mujica
 不玩米哈游 不玩腾讯 不玩网易 不玩任何国服
 不喜欢圈子的概念 所以理论上来说不主混任何圈 只是个路过的随心情创作者
 
+## 所在的民间本地化团队
+IGB Team CN - 程序/文翻
+Undertale: Bits and Pieces 官方授权简体中文本地化组 - 程序/文翻
+晓译站。 - 程序/文翻
+不是汉化组 - 程序
+雨伞架汉化组 - 程序/文翻
+好人汉化组 - 程序/文翻/文校
+
 ## 参与过的本地化项目
 LabyMod - 简体中文/繁体中文
 Undertale: Bits and Pieces - 简体中文（官方授权）
@@ -131,6 +139,7 @@ Facing Demons - 简体中文
 Storyshift Asriel Fight By IGB Team - 简体中文/繁体中文
 STORYFELL Papyrus Fight By IGB Team - 繁体中文
 Undertale: Yellow - 简体中文（非官方）
+DELTARUNE (Chapter 3 & 4) - 简体中文（非官方）
 
 还有别的，想到再补
 
