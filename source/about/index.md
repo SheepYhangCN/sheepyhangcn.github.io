@@ -118,6 +118,7 @@ Maimai DX
 Neuro-sama
 Girls Band Cry
 MyGO / Ave Mujica
+蔚蓝档案
 </details>
 
 不玩任何手游（PJSK和Phigros是特例
