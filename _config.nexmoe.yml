@@ -113,6 +113,7 @@ slotFooter: |
 # 自定义侧边栏尾部内容
 slotSidebar: |
   <br>Github Pages & Cloudflare CDN 驱动
+  <br><a href="https://icp.gov.moe/?keyword=20258328" target="_blank">萌ICP备20258328号</a>
   <br>本站源代码仓库见 <a target="_blank" href="https://github.com/SheepYhangCN/sheepyhangcn.github.io">Github</a>
   <br><br>联系我：<a target="_blank" href="mailto:contact@sheepyuhang.top">contact@sheepyuhang.top</a>
 
