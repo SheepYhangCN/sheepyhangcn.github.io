@@ -1,7 +1,7 @@
 ---
 title: DELTATRAVELER 汉化技术问题记录【1】
 date: 2025-05-18 00:43:06
-cover: /resources/images/dttvl_enemyname/loadpath.png
+cover: /resources/images/dttvl/dttvl_enemyname/loadpath.png
 tags:
  - 汉化
  - DELTARUNE
@@ -18,11 +18,11 @@ tags:
 翻译后会在进入战斗时报错
 检查代码后发现 敌人初始化中有两个变量
 enemyName与fileName
-![awake](./resources/images/dttvl_enemyname/awake.png)
+![awake](./resources/images/dttvl/dttvl_enemyname/awake.png)
 游戏中显示的敌人名字为enemyName
 
 进一步检查C#代码后 可以看到这两个变量也分别用于拼接敌人资源路径的目录与文件名
-![loadpath](./resources/images/dttvl_enemyname/loadpath.png)
+![loadpath](./resources/images/dttvl/dttvl_enemyname/loadpath.png)
 这种行为太唐了 拿敌人名当目录名
 有空格有点号的 是真不怕出问题啊
 而且明明可以同用一个fileName 却要分开用两个

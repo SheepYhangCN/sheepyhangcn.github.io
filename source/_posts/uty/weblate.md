@@ -1,7 +1,7 @@
 ---
 title: Undertale Yellow 汉化技术问题记录【3】
 date: 2023-12-25 19:06:24
-cover: /resources/images/weblate/account_paused.png
+cover: /resources/images/uty/weblate/account_paused.png
 tags: 
  - UNDERTALE
  - Undertale Yellow
@@ -12,8 +12,8 @@ tags:
 ---
 
 2023年12月22日 我的Crowdin账户因为超过限额而被暂停
-![account_paused](./resources/images/weblate/account_paused.png)
-![project_paused](./resources/images/weblate/project_paused.png)
+![account_paused](./resources/images/uty/weblate/account_paused.png)
+![project_paused](./resources/images/uty/weblate/project_paused.png)
 Crowdin规定免费账户最多可以托管60000个单词
 而Undertale: Yellow光星号开头的句子就包含超过70000个单词
 所以，嗯，再次搬迁
@@ -30,7 +30,7 @@ Crowdin规定免费账户最多可以托管60000个单词
 
 ## 移植strings
 首先是 Weblate只支持分段格式
-![weblate_format](./resources/images/weblate/weblate_format.png)
+![weblate_format](./resources/images/uty/weblate/weblate_format.png)
 这很好解决 导出时手动给每个换行后面多加个换行
 （直接Ctrl+F把换行替换为换行换行）
 导入就手动修改一个脚本

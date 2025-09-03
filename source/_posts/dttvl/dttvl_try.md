@@ -1,7 +1,7 @@
 ---
 title: DELTATRAVELER 汉化初尝试
 date: 2025-04-05 00:07:45
-cover: /resources/images/dttvl_try/UABEA.png
+cover: /resources/images/dttvl/dttvl_try/UABEA.png
 tags: 
  - 汉化
  - DELTARUNE
@@ -56,7 +56,7 @@ UABEA 多文件加载速度是真的慢
 ```
 然后筛选 MonoBehaviour 类型
 用 UABEA 全选并全部 Dump 为 UABEA Json 文件即可
-![UABEA](./resources/images/dttvl_try/UABEA.png)
+![UABEA](./resources/images/dttvl/dttvl_try/UABEA.png)
 目前发现了会出现的三种类型的文本
 ```m_Text``` 是单个文本
 ```lines```与```phrases``` 是对话组

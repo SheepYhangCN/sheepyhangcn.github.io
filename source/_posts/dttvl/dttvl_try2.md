@@ -1,7 +1,7 @@
 ---
 title: DELTATRAVELER 汉化初尝试²
 date: 2025-04-06 03:14:02
-cover: /resources/images/dttvl_try2/options.png
+cover: /resources/images/dttvl/dttvl_try2/options.png
 tags: 
  - 汉化
  - DELTARUNE
@@ -56,12 +56,12 @@ Gamejolt 上的最新版 v3.0.10 用的是 2018.3.14f1
 ### 字体尺寸问题
 Deltatraverler 是按照 Determination 字体的尺寸加载的
 如果使用 DTM+其它中文字体 的融合字体方案就会导致中文字体尺寸不合而变形
-![options](./resources/images/dttvl_try2/options.png)
+![options](./resources/images/dttvl/dttvl_try2/options.png)
 
 之前参与过 UTY 项目的晓晓也帮忙尝试了重新编排一次英文使得中英尺寸相同的方案
 然后结果是
 不仅中文没好 英文也一起变形了
-![new_font](./resources/images/dttvl_try2/new_font.png)
+![new_font](./resources/images/dttvl/dttvl_try2/new_font.png)
 (注意那个百分号)
 
 所以，嗯，目前这个问题还没解决
