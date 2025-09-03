@@ -4,7 +4,7 @@ date: 2025-04-05 00:07:45
 cover: /resources/images/dttvl_try/UABEA.png
 tags: 
  - 汉化
- - Undertale
+ - DELTARUNE
  - Unity
  - DELTATRAVELER
 ---

@@ -4,7 +4,7 @@ date: 2025-04-18 21:02:06
 cover: /resources/images/dttvl_try3/before.png
 tags: 
  - 汉化
- - Undertale
+ - DELTARUNE
  - Unity
  - DELTATRAVELER
 ---

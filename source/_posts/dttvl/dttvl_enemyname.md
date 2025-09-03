@@ -4,7 +4,7 @@ date: 2025-05-18 00:43:06
 cover: /resources/images/dttvl_enemyname/loadpath.png
 tags:
  - 汉化
- - Undertale
+ - DELTARUNE
  - Unity
  - DELTATRAVELER
 ---

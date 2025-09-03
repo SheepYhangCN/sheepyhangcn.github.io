@@ -3,7 +3,7 @@ title: Undertale Yellow 汉化技术问题记录【5】
 date: 2024-08-05 20:29:03
 cover: /resources/images/item_use/cover.png
 tags: 
- - Undertale
+ - UNDERTALE
  - Undertale Yellow
  - 汉化
  - GameMaker

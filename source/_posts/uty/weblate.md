@@ -3,7 +3,7 @@ title: Undertale Yellow 汉化技术问题记录【3】
 date: 2023-12-25 19:06:24
 cover: /resources/images/weblate/account_paused.png
 tags: 
- - Undertale
+ - UNDERTALE
  - Undertale Yellow
  - 汉化
  - Crowdin
