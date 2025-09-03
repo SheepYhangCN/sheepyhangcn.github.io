@@ -12,7 +12,7 @@ Minecraft 指令师
 同人/独立游戏制作者
 （曾经使用 GameMaker，现在使用 Godot 4 C#）
 憨憨羊工作室 室长
-UNDERTALE 中文本地化社区 建立者
+[UNDERTALE 中文本地化社区](https://utclc.top) 建立者
 计算机网络专业学生
 爱好性本地化译者（英文/简中/繁中）
 
