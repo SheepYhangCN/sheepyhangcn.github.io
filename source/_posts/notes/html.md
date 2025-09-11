@@ -57,6 +57,12 @@ html ( head (网页头) body (网页内容)  )
 
 `<br>` 换行
 
+`<img>` 图片
+- `src` 图片路径
+- `alt` 图片显示不出时显示的文本
+- `width` 宽度
+- `height` 高度
+
 ### 双标签
 `<span>` 文本容器 用于同一行中应用不同样式
 
@@ -68,12 +74,6 @@ html ( head (网页头) body (网页内容)  )
 
 `<h*>` 标题
 - `*`为1到6
-
-`<img>` 图片
-- `src` 图片路径
-- `alt` 图片显示不出时显示的文本
-- `width` 宽度
-- `height` 高度
 
 `<a>` 链接
 - `href` 链接地址
@@ -163,12 +163,16 @@ table ( thead ( th th ) tbody ( tr ( td td ) tr ( td td ) ) )
   - `left`
   - `center`
   - `right`
+- `valign` 上下对齐 
+  - `top`
+  - `middle`
+  - `down`
 - `colspan` 水平跨度（跨过多列）
 - `rowspan` 垂直跨度（跨过多行）
 
 ## style 样式参数
-`color"` [颜色](#颜色)
-`background-color"` 背景[颜色](#颜色)
+`color` [颜色](#颜色)
+`background-color` 背景[颜色](#颜色)
 `font-family` 字体 逗号分隔备选字体
 `font-size` 字体大小
 `font-style` 字体差分
@@ -188,8 +192,22 @@ table ( thead ( th th ) tbody ( tr ( td td ) tr ( td td ) ) )
 - `justify` 两端对齐
 - `inherit` 从父元素继承
 
+`line-height` 行间距
+`letter-spacing` 字间距
+`word-spacing` 单词间距
+
 ### 颜色
 十六进制数 或 下列之一
 ```
 black white red green blue fuchsia yellow cyan whitesmoke
+```
+
+## 去除`<a>`超链接的特殊效果
+```
+<style>
+a {
+  color: inherit;
+  text-decoration: none;
+}
+</style>
 ```
