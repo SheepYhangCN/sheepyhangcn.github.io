@@ -102,7 +102,7 @@ html ( head (网页头) body (网页内容)  )
 - `inset` 3D 嵌入
 - `outset` 3D 突出
 
-`border-color"` 边框[颜色](#颜色) 接受1-4个值 上右下左
+`border-color` 边框[颜色](#颜色) 接受1-4个值 上右下左
 
 ##### 背景
 `background-color` 背景[颜色](#颜色)
