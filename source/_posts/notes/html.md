@@ -95,14 +95,14 @@ html ( head (网页头) body (网页内容)  )
 - `none` 无
 - `dotted` 点画线
 - `dashed` 虚线
-- `soild` 实线
+- `solid` 实线
 - `double` 双层
 - `groove` 3D 沟槽
 - `ridge` 3D 脊
 - `inset` 3D 嵌入
 - `outset` 3D 突出
 
-`border-color` 边框[颜色](#颜色) 接受1-4个值 上右下左
+`border-color"` 边框[颜色](#颜色) 接受1-4个值 上右下左
 
 ##### 背景
 `background-color` 背景[颜色](#颜色)
@@ -201,6 +201,20 @@ table ( thead ( th th ) tbody ( tr ( td td ) tr ( td td ) ) )
 ```
 black white red green blue fuchsia yellow cyan whitesmoke
 ```
+
+### 伪类
+选择器:伪类
+`link` 未访问的链接
+`visited` 已访问的链接
+`hover` 鼠标悬停
+`active` 选中的链接
+
+`input:focus` 输入框获得焦点
+
+`first-child` 父元素的第一个子元素
+`last-child` 父元素的最后一个子元素
+`nth-child(*)` 父元素的第\*个子元素
+
 
 ## 去除`<a>`超链接的特殊效果
 ```
