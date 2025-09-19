@@ -6,7 +6,43 @@ tags:
  - HTML
  - CSS
 ---
-`&nbsp;` non-breaking space 不折行空格
+## 转义字符
+<table>
+  <thead>
+	<th>转义字符</th>
+	<th>字符</th>
+  </thead>
+  <tbody>
+	<tr>
+	  <td>&amp;ensp;</td>
+	  <td>半宽空格（&ensp;）</td>
+	</tr>
+	<tr>
+	  <td>&amp;emsp;</td>
+	  <td>全宽空格（&emsp;）</td>
+	</tr>
+	<tr>
+	  <td>&amp;nbsp;</td>
+	  <td>不折行空格（&nbsp;）</td>
+	</tr>
+	<tr>
+	  <td>&amp;lt;</td>
+	  <td>&lt;</td>
+	</tr>
+	<tr>
+	  <td>&amp;gt;</td>
+	  <td>&gt;</td>
+	</tr>
+	<tr>
+	  <td>&amp;amp;</td>
+	  <td>&amp;</td>
+	</tr>
+	<tr>
+	  <td>&amp;quot;</td>
+	  <td>&quot;</td>
+	</tr>
+  </tbody>
+</table>
 
 ## 结构
 html ( head (网页头) body (网页内容)  )
@@ -65,6 +101,9 @@ html ( head (网页头) body (网页内容)  )
 
 ### 双标签
 `<span>` 文本容器 用于同一行中应用不同样式
+
+`<b>` 加粗
+`<i>` 斜体
 
 `<p>` 段落
 - `align` 对齐 
@@ -195,6 +234,8 @@ table ( thead ( th th ) tbody ( tr ( td td ) tr ( td td ) ) )
 `line-height` 行间距
 `letter-spacing` 字间距
 `word-spacing` 单词间距
+
+`border-collapse: collapse` (table only) 合并表格与单元格边框
 
 ### 颜色
 十六进制数 或 下列之一
