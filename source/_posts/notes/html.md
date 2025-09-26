@@ -44,8 +44,86 @@ tags:
   </tbody>
 </table>
 
+## 长度单位
+<table>
+  <thead>
+	<th>类型</th>
+	<th>单位</th>
+	<th>解释</th>
+	<th>换算</th>
+  </thead>
+  <tbody>
+	<tr>
+	  <td rowspan="7">绝对长度<br>（固定不变）</td>
+	  <td>px</td>
+	  <td>像素</td>
+	  <td>N/A</td>
+	</tr>
+	<tr>
+	  <td>cm</td>
+	  <td>厘米</td>
+	  <td>37.8px</td>
+	</tr>
+	<tr>
+	  <td>mm</td>
+	  <td>毫米</td>
+	  <td>3.78px</td>
+	</tr>
+	<tr>
+	  <td>Q</td>
+	  <td>四分之一毫米</td>
+	  <td>0.945px</td>
+	</tr>
+	<tr>
+	  <td>in</td>
+	  <td>英寸</td>
+	  <td>96px</td>
+	</tr>
+	<tr>
+	  <td>pc</td>
+	  <td>派卡</td>
+	  <td>16px</td>
+	</tr>
+	<tr>
+	  <td>pt</td>
+	  <td>磅</td>
+	  <td>4/3px</td>
+	</tr>
+	<tr>
+	  <td rowspan="7">相对长度<br>（取决于其它因素变化）</td>
+	  <td>em</td>
+	  <td>字符（字体大小）</td>
+	  <td rowspan="7">N/A</td>
+	</tr>
+	<tr>
+	  <td>rem</td>
+	  <td>字符（相对于根元素的字体大小）</td>
+	</tr>
+	<tr>
+	  <td>%</td>
+	  <td>相对于父元素的百分比</td>
+	</tr>
+	<tr>
+	  <td>vw</td>
+	  <td>视图宽度 的百分比</td>
+	</tr>
+	<tr>
+	  <td>vh</td>
+	  <td>视图高度 的百分比</td>
+	</tr>
+	<tr>
+	  <td>vmin</td>
+	  <td>视图宽度与视图高度中<br>更小的那个的百分比</td>
+	</tr>
+	<tr>
+	  <td>vmax</td>
+	  <td>视图宽度与视图高度中<br>更大的那个的百分比</td>
+	</tr>
+  </tbody>
+</table>
+
 ## 结构
-html ( head (网页头) body (网页内容)  )
+html ( style (CSS样式) head (网页头) body (网页内容)  )
 
 # HTML 标签
 `<!doctype html>` 首行必写（单标签）
@@ -141,7 +219,7 @@ html ( head (网页头) body (网页内容)  )
 - `inset` 3D 嵌入
 - `outset` 3D 突出
 
-`border-color"` 边框[颜色](#颜色) 接受1-4个值 上右下左
+`border-color` 边框[颜色](#颜色) 接受1-4个值 上右下左
 
 ##### 背景
 `background-color` 背景[颜色](#颜色)
@@ -231,6 +309,7 @@ table ( thead ( th th ) tbody ( tr ( td td ) tr ( td td ) ) )
 - `justify` 两端对齐
 - `inherit` 从父元素继承
 
+`text-indent` 段落首缩进
 `line-height` 行间距
 `letter-spacing` 字间距
 `word-spacing` 单词间距
