@@ -4,7 +4,7 @@ background: # 既是博客的背景，又是文章默认头图
     width: 1920
     height: 1080
 favicon:
-  href: /resources/images/avator.png # 网站图标
+  href: /resources/images/avator_transparentbg.png # 网站图标
   type: image/png # 图标类型，可能的值有(image/png, image/vnd.microsoft.icon, image/x-icon, image/gif)
 
 function: # 功能开关，可选值（true,false）
@@ -112,9 +112,8 @@ slotFooter: |
 
 # 自定义侧边栏尾部内容
 slotSidebar: |
-  <br>Github Pages & Cloudflare CDN 驱动
-  <br><a href="https://icp.gov.moe/?keyword=20258328" target="_blank">萌ICP备20258328号</a>
   <br>本站源代码仓库见 <a target="_blank" href="https://github.com/SheepYhangCN/sheepyhangcn.github.io">Github</a>
+  <br><a href="https://icp.gov.moe/?keyword=20258328" target="_blank">萌ICP备20258328号</a>
   <br><br>联系我：<a target="_blank" href="mailto:contact@sheepyuhang.top">contact@sheepyuhang.top</a>
 
 # 评论框插槽

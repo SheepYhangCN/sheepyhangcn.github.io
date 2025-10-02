@@ -3,11 +3,11 @@ title: 关于
 date: 1
 ---
 
-## “你谁？”
+## 谁
 憨憨羊の宇航鸽鸽，直接叫我宇航即可
 外网常用名 SheepYhangCN
 
-## “你是干嘛的？”
+## 做什么的
 Minecraft 指令师
 同人/独立游戏制作者
 （曾经使用 GameMaker，现在使用 Godot 4 C#）
@@ -19,8 +19,9 @@ Minecraft 指令师
 在学习日语 目前学习到あいうえお（x
 有时候会搬点外网视频 想的话会顺便翻译
 
-```English``` ```中文（简体/繁體）``` ```汉语（普通话/粵語）```
-```C#``` ```Python``` ```GameMaker``` ```Godot```
+`English` `中文（简体/繁體）` `汉语（普通话/粵語）`
+`C#` `Python` `GameMaker` `Godot`
+学习中：`日本語` `C++`
 
 <details>
 <summary>互联网历程</summary>
@@ -69,36 +70,12 @@ MBTI：INTP-T
 （被下架的旧版，新版的词不喜欢）
 </details>
 
-## “看看成分？”
-<details>
-<summary>成分，应该不全，想到再补</summary>
+## 成分
+可能不全 想到再补
 
-Minecraft
-Undertale
-Deltarune
-东方Project
-Cookie☆
-OneShot
-OMORI
-OutCore
-Henry Stickmin
-Pizza Tower
-宅男的人间冒险
-塞尔达传说
-宝可梦
-Splatoon
-Super Mario Bros
-星之卡比
-Doki Doki Literature Club
-Vocaloid
-Counter-Strike
-Half-Life
-Portal
-Left 4 Dead
-Garry's Mod
-s&box
-Grand Theft Auto
-逆转裁判
+<details>
+<summary>看过/在追且一直都持续有在主动关注消息与观看/创作二创等的番/动画/漫画/小说等</summary>
+
 三体
 Rick And Morty
 喜羊羊与灰太狼
@@ -107,22 +84,61 @@ Rick And Morty
 间谍过家家
 My Little Pony
 神奇数字马戏团
+孤独摇滚
+Girls Band Cry
+MyGO / Ave Mujica</details>
+<details>
+<summary>游戏 比较常玩的非单机 和已通关且一直都持续有在观看/创作二创等的单机游戏</summary>
+
+Minecraft
+Undertale
+Deltarune
+OneShot
+OMORI
+OutCore
+Henry Stickmin
+Pizza Tower
+宅男的人间冒险
+塞尔达传说（王国之泪）
+宝可梦（朱紫）
+Splatoon
+Super Mario Bros
+星之卡比
+Doki Doki Literature Club
+Counter-Strike
+Half-Life
+Portal
+Left 4 Dead
+Garry's Mod
+s&box
+Grand Theft Auto
+Cyberpunk 2077
+逆转裁判
 Roblox
 Plants Vs Zombies
 Phigros
 MuseDash
 世界计划
 VRChat
-孤独摇滚
 Maimai DX
-Neuro-sama
-Girls Band Cry
-MyGO / Ave Mujica
 蔚蓝档案
+鸣潮
+魔法少女的魔女审判</details>
+<details>
+<summary>除以上之外的成分 <del>还有亚文化成分呢</del></summary>
+
+Vocaloid
+东方Project
+Cookie☆
+电棍otto
+哈基米
+Neuro-sama
+Lost media
 </details>
 
-不玩任何手游（PJSK和Phigros是特例
+不玩任何手游（音游除外）
 不玩米哈游 不玩腾讯 不玩网易 不玩任何国服
+客观上很少玩二游 实际上只是剧情党 只专注于剧情罢了 与是否二游无关
 不喜欢圈子的概念 所以理论上来说不主混任何圈 只是个路过的随心情创作者
 
 ## 所在的民间本地化团队
