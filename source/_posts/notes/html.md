@@ -232,8 +232,8 @@ html ( style (CSS样式) head (网页头) body (网页内容)  )
 - `inherit` 从父元素继承
 
 ##### 边距
-`margin` 外边距 接受1-4个值 上右下左
-`padding` 内边距 接受1-4个值 上右下左
+`margin` 外边距 接受1-4个值 上右下左 接受`auto`
+`padding` 内边距 接受1-4个值 上右下左 接受`auto`
 
 #### 列表
 `<ol>` 有序列表
@@ -308,6 +308,20 @@ table ( thead ( th th ) tbody ( tr ( td td ) tr ( td td ) ) )
 - `right`
 - `justify` 两端对齐
 - `inherit` 从父元素继承
+
+`text-decoration-line` 文本装饰线
+- `underline` 下划线
+- `overline` 上划线
+- `line-through`删除线
+
+`text-decoration-style` 文本装饰线样式
+- `dotted` 点画线
+- `dashed` 虚线
+- `solid` 实线
+- `double` 双层
+- `wavy` 波浪线
+
+`text-decoration-color` 文本装饰线的颜色
 
 `text-indent` 段落首缩进
 `line-height` 行间距
