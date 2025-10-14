@@ -128,7 +128,7 @@ html ( style (CSS样式) head (网页头) body (网页内容)  )
 # HTML 标签
 `<!doctype html>` 首行必写（单标签）
 `<html>` 必写（双标签）
-- `lang` 语言（见 RFC 5464）
+- `lang` 语言（见 [RFC 5464](https://www.rfc-editor.org/rfc/rfc5646.html) 与 [IANA 语言子标签注册中心](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry)）
   - `zh-Hans-CN` 简体中文
   - `zh` 中文
 
@@ -168,6 +168,9 @@ html ( style (CSS样式) head (网页头) body (网页内容)  )
 `<hr>` 分割线
 - `width` 长度
 - `size` 粗细
+- `style`
+  - `background-color` 颜色
+  - `border-style` 样式
 
 `<br>` 换行
 
@@ -322,19 +325,41 @@ table ( thead ( th th ) tbody ( tr ( td td ) tr ( td td ) ) )
 - `wavy` 波浪线
 
 `text-decoration-color` 文本装饰线的颜色
+`text-decoration-thinkness` 文本装饰线的粗细
+`text-underline-offset` 文本下划线 距离
 
 `text-indent` 段落首缩进
 `line-height` 行间距
 `letter-spacing` 字间距
 `word-spacing` 单词间距
 
+`opacity` 透明度
+`box-shadow` 阴影
+- 接收顺序 `x偏移` `y偏移` `阴影模糊半径` `阴影扩散半径` `阴影颜色`
+
+`object-fit` 图片填充
+- `none` 保持不变
+- `fill` 拉伸 预设值
+- `contain` 保持比例拉伸留白
+- `cover` 保持比例拉伸裁切
+- `scale-down` 自动选择 `none` 或 `contain` 中较小的
+
+`border-radius` 圆角 接收上右下左四个值
+
 `border-collapse: collapse` (table only) 合并表格与单元格边框
 
+`display` 显示类型
+- `block` 块级元素 开新行
+- `inline` 行内元素 不开新行
+- `inline-block` 行内块级元素 不开新行
+- `flex` 块级元素 按照[弹性盒模型](https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_flexible_box_layout)布局
+- `inline-flex` 同上 行内元素 不开新行
+- `grid` 块级元素 按照[网格模型](https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_grid_layout)布局
+- `inline-grid` 同上 行内元素 不开新行
+- `flow-root` 块级元素 新建[区块格式化上下文](https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_display/Block_formatting_context)
+
 ### 颜色
-十六进制数 或 下列之一
-```
-black white red green blue fuchsia yellow cyan whitesmoke
-```
+详见 [CSS Color Module Level 3](https://www.w3.org/TR/css-color-3)
 
 ### 伪类
 选择器:伪类
