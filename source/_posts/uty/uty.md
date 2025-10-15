@@ -1,7 +1,7 @@
 ---
 title: Undertale Yellow 汉化技术问题记录【1】
 date: 2023-12-11 19:15:15
-cover: /resources/images/uty/uty/color.png
+categories: [研究记录]
 tags: 
  - UNDERTALE
  - Undertale Yellow

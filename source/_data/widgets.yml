@@ -1,0 +1,46 @@
+indexs:
+  layout: linklist
+  columns: 2
+  items:
+    - title: 首页
+      url: /
+    - title: 关于
+      url: /about/
+    - title: 分类
+      url: /categories/
+    - title: 标签
+      url: /tags/
+    - title: 笔记
+      url: /notes/
+    - title: 归档
+      url: /archives/
+
+welcome:
+  layout: markdown
+  content: |
+    > 感谢诸位莅临寒舍。
+    > 望鄙人拙见与见闻有助于诸位。
+    > 那么，祝各位安好，生活愉快。
+    > <div style="text-align: right;">——憨憨羊の宇航鸽鸽</div>
+
+tree:
+  layout: linklist
+  columns: 1
+  items:
+    - title: 所有笔记
+      url: /notes/
+    - title: Kylin Linux
+      url: /notes/linux/
+    - title: MySQL
+      url: /notes/mysql/
+    - title: HTML & CSS
+      url: /notes/html/
+
+related:
+  layout: related
+
+ghuser:
+  layout: ghuser
+  username: SheepYhangCN
+  avatar: true # show avatar or not
+  menu: true # show menu or not

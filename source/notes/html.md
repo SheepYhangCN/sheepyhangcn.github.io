@@ -1,11 +1,12 @@
 ---
-title: 自用HTML+CSS学习笔记
+title: 自用 HTML & CSS 学习笔记
 date: 2025-09-03 18:32:32
+notebook: notes
 tags:
- - 学习笔记
  - HTML
  - CSS
 ---
+# 查查表
 ## 转义字符
 <table>
   <thead>

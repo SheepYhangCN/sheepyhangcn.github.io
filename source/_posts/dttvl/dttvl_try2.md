@@ -1,7 +1,7 @@
 ---
 title: DELTATRAVELER 汉化初尝试²
 date: 2025-04-06 03:14:02
-cover: /resources/images/dttvl/dttvl_try2/options.png
+categories: [研究记录]
 tags: 
  - 汉化
  - DELTARUNE

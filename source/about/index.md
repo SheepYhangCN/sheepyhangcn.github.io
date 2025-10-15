@@ -1,6 +1,7 @@
 ---
 title: 关于
 date: 1
+menu_id: about
 ---
 
 ## 谁
