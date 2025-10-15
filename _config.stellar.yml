@@ -55,7 +55,7 @@ menubar:
       theme: '#3DC550'
       icon: solar:documents-bold-duotone
       title: 关于
-      url: /about/index.html
+      url: /about/
     - id: notes
       theme: '#FA6400'
       icon: solar:notebook-bookmark-bold-duotone
