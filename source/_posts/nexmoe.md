@@ -1,6 +1,8 @@
 ---
 title: Aurora→Nexmoe
 date: 2025-05-02 05:16:05
+categories: [博客更新]
+repo: SheepYhangCN/sheepyhangcn.github.io
 tags: 
  - Blog
 ---

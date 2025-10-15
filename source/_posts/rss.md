@@ -1,6 +1,8 @@
 ---
 title: 新增RSS Feed
 date: 2024-08-18 01:15:05
+categories: [博客更新]
+repo: SheepYhangCN/sheepyhangcn.github.io
 tags: 
  - Blog
 ---
@@ -17,3 +19,7 @@ RSS 2.0：```https://sheepyuhang.top/rss2.xml```
 
 2025/5/2 16:53
 因为换到Nexmoe了就放在了左侧的social里
+
+2025/10/15 13:10
+更换到了Stellar 然后这个不支援多个rss
+所以只保留了Atom，而且把链接改为了```https://sheepyuhang.top/rss.xml```

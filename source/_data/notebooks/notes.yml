@@ -1,0 +1,10 @@
+name: 笔记本
+title: 笔记本
+base_dir: /notes/
+
+sort: 1
+per_page: 10
+license: true
+share: true
+
+menu_id: notes

@@ -4,6 +4,8 @@
 
 # Site
 title: 宇航の鸽子窝
+avatar: /resources/images/avator.png
+favicon: /resources/images/avator_transparentbg.png
 subtitle: ''
 description: ''
 keywords: 
@@ -96,7 +98,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: nexmoe
+theme: stellar
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -105,12 +107,8 @@ deploy:
 
 feed:
   enable: true
-  type:
-    - atom
-    - rss2
-  path:
-    - atom.xml
-    - rss2.xml
+  type: atom
+  path: rss.xml
   limit: false
 
 jsonContent:

@@ -1,7 +1,7 @@
 ---
 title: Undertale Yellow 汉化技术问题记录【3】
 date: 2023-12-25 19:06:24
-cover: /resources/images/uty/weblate/account_paused.png
+categories: [研究记录]
 tags: 
  - UNDERTALE
  - Undertale Yellow

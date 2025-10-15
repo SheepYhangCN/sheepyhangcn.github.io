@@ -1,7 +1,7 @@
 ---
 title: Undertale Yellow 汉化技术问题记录【2】
 date: 2023-12-13 19:00:54
-cover: /resources/images/uty/crowdin/candy_spare.png
+categories: [研究记录]
 tags: 
  - UNDERTALE
  - Undertale Yellow

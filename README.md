@@ -1,2 +1,2 @@
-Hexo + Nexmoe<br>
+Hexo + Stellar<br>
 Namesilo Domain + Cloudflare CDN

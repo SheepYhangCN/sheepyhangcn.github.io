@@ -1,7 +1,7 @@
 ---
 title: DELTATRAVELER 汉化初尝试
 date: 2025-04-05 00:07:45
-cover: /resources/images/dttvl/dttvl_try/UABEA.png
+categories: [研究记录]
 tags: 
  - 汉化
  - DELTARUNE
