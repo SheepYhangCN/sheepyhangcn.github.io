@@ -17,8 +17,8 @@ preconnect:
 # 如果访问地址不在备用站主机列表，则警告信息为非法克隆
 canonical:
   originalHost: # 主站点域名主机，例如 xaoxuu.com
-    - sheepyuhang.top
   officialHosts: # 官方主机列表，每行一个，例如 xaoxuu.vercel.app
+    - sheepyuhang.top
     - localhost
     - sheepyhangcn.github.io
 
