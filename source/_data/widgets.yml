@@ -23,6 +23,15 @@ welcome:
     > 那么，祝各位安好，生活愉快。
     > <div style="text-align: right;">——憨憨羊の宇航鸽鸽</div>
 
+notebooks:
+  layout: linklist
+  columns: 1
+  items:
+    - title: 笔记本目录
+      url: /notebooks/
+    - title: 计算机技术
+      url: /notes/tech/
+
 notestree:
   layout: linklist
   columns: 1
