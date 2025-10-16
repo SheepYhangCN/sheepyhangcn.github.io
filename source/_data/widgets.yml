@@ -17,7 +17,6 @@ indexs:
 
 welcome:
   layout: markdown
-  title: 欢迎
   content: |
     > 感谢诸位莅临寒舍。
     > 望鄙人拙见与见闻有助于诸位。
