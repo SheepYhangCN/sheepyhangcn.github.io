@@ -1,13 +1,13 @@
-name: 笔记本
-title: 笔记本
-base_dir: /notes/
+name: 计算机技术
+title: 学习笔记 - 计算机技术
+description: 
+  计算机技术相关的自用学习笔记
+base_dir: /notes/tech/
 
 sort: 1
 per_page: 10
 order_by: +date
 license: true
 share: true
-
-menu_id: notes
 search:
-  filter: /notes/
+  filter: /notes/tech/

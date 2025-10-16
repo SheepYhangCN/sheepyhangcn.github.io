@@ -56,11 +56,11 @@ menubar:
       icon: solar:documents-bold-duotone
       title: 关于
       url: /about/
-    - id: notes
+    - id: notebooks
       theme: '#FA6400'
       icon: solar:notebook-bookmark-bold-duotone
-      title: 笔记本
-      url: /notes/
+      title: 笔记
+      url: /notebooks/
     # - id: social
     #   theme: '#F44336'
     #   icon: solar:chat-square-like-bold-duotone
@@ -111,8 +111,8 @@ site_tree:
     base_dir: notebooks # 笔记本列表页的路径。以及未指定 base_dir 的笔记本的路径前缀。
     menu_id: notebooks # 笔记本列表页高亮的主导航栏菜单按钮。
     # 笔记本列表页的左侧栏和右侧栏。
-    leftbar: recent # recent within all notebooks
-    rightbar: null
+    leftbar: recent, tagtree # recent within all notebooks
+    rightbar: ghuser
   # 笔记列表页配置
   notes:
     # 笔记列表页和笔记页高亮的主导航栏菜单按钮。
@@ -120,14 +120,14 @@ site_tree:
     # 可以在笔记的 front-matter/menu_id 中覆盖此参数。
     menu_id: notebooks
     # 笔记列表页的左侧栏和右侧栏。可以在笔记本 yaml 的 leftbar 和 rightbar 字段中覆盖此参数。
-    leftbar: tree, tagtree # recent of current notebook
+    leftbar: notestree, tagtree # recent of current notebook
     rightbar: ghuser, ghrepo, recent
   # 笔记页配置
   note:
     # 笔记页的左侧栏和右侧栏
     # 可以在笔记本 yaml 的 note_leftbar 和 note_rightbar 字段中覆盖此参数。
     # 可以在笔记的 front-matter/leftbar 和 rightbar 字段中覆盖此参数。
-    leftbar: tree, tagtree, recent # recent of current notebook
+    leftbar: notestree, tagtree, recent # recent of current notebook
     rightbar: ghuser, ghrepo, toc
   # 作者信息配置
   author: 

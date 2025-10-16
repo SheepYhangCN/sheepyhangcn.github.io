@@ -11,7 +11,7 @@ indexs:
     - title: 标签
       url: /tags/
     - title: 笔记
-      url: /notes/
+      url: /notebooks/
     - title: 归档
       url: /archives/
 
@@ -23,18 +23,18 @@ welcome:
     > 那么，祝各位安好，生活愉快。
     > <div style="text-align: right;">——憨憨羊の宇航鸽鸽</div>
 
-tree:
+notestree:
   layout: linklist
   columns: 1
   items:
     - title: 所有笔记
-      url: /notes/
+      url: /notes/tech/
     - title: Kylin Linux
-      url: /notes/linux/
+      url: /notes/tech/linux/
     - title: MySQL
-      url: /notes/mysql/
+      url: /notes/tech/mysql/
     - title: HTML & CSS
-      url: /notes/html/
+      url: /notes/tech/html/
 
 related:
   layout: related
