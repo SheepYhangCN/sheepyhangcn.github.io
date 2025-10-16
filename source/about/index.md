@@ -1,6 +1,7 @@
 ---
 title: 关于
 date: 1
+updated: 2025-10-16 12:30:24
 menu_id: about
 ---
 
@@ -21,7 +22,7 @@ Minecraft 指令师
 有时候会搬点外网视频 想的话会顺便翻译
 
 `English` `中文（简体/繁體）` `汉语（普通话/粵語）`
-`C#` `Python` `GameMaker` `Godot`
+`C#` `Python` `GameMaker` `Godot` `HTML & CSS` `Markdown`
 学习中：`日本語` `C++`
 
 <details>
@@ -84,10 +85,13 @@ Rick And Morty
 某科学的超电磁炮
 间谍过家家
 My Little Pony
+罗小黑战记
 神奇数字马戏团
 孤独摇滚
 Girls Band Cry
-MyGO / Ave Mujica</details>
+MyGO / Ave Mujica
+虚构推理
+为美好的世界送上祝福</details>
 <details>
 <summary>游戏 比较常玩的非单机 和已通关且一直都持续有在观看/创作二创等的单机游戏</summary>
 

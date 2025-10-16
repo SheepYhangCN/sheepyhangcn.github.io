@@ -1,6 +1,7 @@
 ---
 title: 自用 Kylin Linux 学习笔记
 date: 2025-03-06 19:40:50
+updated: 2025-09-10 20:00:27
 notebook: notes
 tags:
  - Linux

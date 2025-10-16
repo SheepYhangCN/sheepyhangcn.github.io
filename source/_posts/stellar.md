@@ -1,6 +1,7 @@
 ---
 title: 本站更换为 Stellar 主题
 date: 2025-10-15 13:10:05
+updated: 2025-10-16 12:30:12
 categories: [博客更新]
 repo: SheepYhangCN/sheepyhangcn.github.io
 tags: 
@@ -25,5 +26,5 @@ Nexmoe 看腻了
 烦人的是 换成 Stellar 之后默认链接就自带斜杠
 然后这样子本地运行没啥问题 会自动去掉斜杠
 但是上传到 Github 之后带斜杠就会直接 404
-现在的方案是把链接从 `post/文件名.index` 改成了 `post/文件名/index.html`
+现在的方案是把链接从 `post/文件名.html` 改成了 `post/文件名/index.html`
 然后 pretty_url 就会自动去掉 index.html 来修复这个问题

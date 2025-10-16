@@ -1,9 +1,11 @@
 ---
 title: 博客建设记录【1】
 date: 2023-12-09 11:59:18
+updated: 2023-12-09 11:59:18
+categories: [博客更新]
+repo: SheepYhangCN/sheepyhangcn.github.io
 tags:
- - Hexo
- - Aurora
+ - Blog
 ---
 
 之前看到[糖萌芦的blog站](https://tml233.github.io)，就想着自己做一个

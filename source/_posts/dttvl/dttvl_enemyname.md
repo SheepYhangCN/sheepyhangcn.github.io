@@ -1,6 +1,7 @@
 ---
 title: DELTATRAVELER 汉化技术问题记录【1】
 date: 2025-05-18 00:43:06
+updated: 2025-05-18 00:43:06
 categories: [研究记录]
 tags:
  - 汉化

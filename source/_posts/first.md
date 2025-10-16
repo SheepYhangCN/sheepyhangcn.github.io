@@ -1,9 +1,11 @@
 ---
 title: Hexo，启动！
 date: 2023-12-09 01:04:38
+updated: 2023-12-09 01:04:38
+categories: [博客更新]
+repo: SheepYhangCN/sheepyhangcn.github.io
 tags:
- - Hexo
- - Aurora
+ - Blog
 ---
 折腾了两个小时，大概是搞出来了
 其实也不难搞

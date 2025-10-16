@@ -1,6 +1,7 @@
 ---
 title: Undertale Yellow 汉化技术问题记录【5】
 date: 2024-08-05 20:29:03
+updated: 2024-08-05 20:29:03
 categories: [研究记录]
 tags: 
  - UNDERTALE

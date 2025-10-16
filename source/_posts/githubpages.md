@@ -1,10 +1,11 @@
 ---
 title: main? master!
 date: 2023-12-09 02:06:26
+updated: 2023-12-09 02:06:26
+categories: [博客更新]
+repo: SheepYhangCN/sheepyhangcn.github.io
 tags:
- - Github
- - Github Pages
- - Github Actions
+ - Blog
 ---
 
 草不是 我服了

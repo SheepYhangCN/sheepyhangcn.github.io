@@ -1,6 +1,7 @@
 ---
 title: 自用 HTML & CSS 学习笔记
 date: 2025-09-03 18:32:32
+updated: 2025-10-16 12:30:32
 notebook: notes
 tags:
  - HTML
@@ -358,6 +359,11 @@ table ( thead ( th th ) tbody ( tr ( td td ) tr ( td td ) ) )
 - `grid` 块级元素 按照[网格模型](https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_grid_layout)布局
 - `inline-grid` 同上 行内元素 不开新行
 - `flow-root` 块级元素 新建[区块格式化上下文](https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_display/Block_formatting_context)
+
+`float` 元素浮动
+- `none` 预设值 无
+- `left` 左
+- `right` 右
 
 ### 颜色
 详见 [CSS Color Module Level 3](https://www.w3.org/TR/css-color-3)
