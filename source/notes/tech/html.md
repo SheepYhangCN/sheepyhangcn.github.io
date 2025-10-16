@@ -1,7 +1,7 @@
 ---
 title: 自用 HTML & CSS 学习笔记
 date: 2025-09-03 18:32:32
-updated: 2025-10-16 12:30:32
+updated: 2025-10-16 16:30:16
 notebook: notes
 tags:
  - HTML
@@ -124,10 +124,11 @@ tags:
   </tbody>
 </table>
 
-## 结构
-html ( style (CSS样式) head (网页头) body (网页内容)  )
-
 # HTML 标签
+
+## 结构
+html ( style (CSS样式) head (网页头) body (网页内容) )
+
 `<!doctype html>` 首行必写（单标签）
 `<html>` 必写（双标签）
 - `lang` 语言（见 [RFC 5464](https://www.rfc-editor.org/rfc/rfc5646.html) 与 [IANA 语言子标签注册中心](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry)）
@@ -135,28 +136,12 @@ html ( style (CSS样式) head (网页头) body (网页内容)  )
   - `zh` 中文
 
 ## `<head>` 网页头
+`<link rel="stylesheet" type="text/css" href="<CSS标签路径>">` 引入 CSS（单标签）
 `<meta charset="utf-8">` 网页代码页（单标签）
 `<title>` 标题（双标签）
 
 ### `<style>` 内嵌样式
-格式
-```
-选择器 { 参数: 值; 参数: 值; }
-```
-[style 样式参数](#style-样式参数)
-
-优先级：`id 选择器 > 类选择器 > 标签选择器`
-
-#### 标签选择器
-直接使用标签 `body` `h1` `p` 等作为选择器
-
-#### 类选择器
-使用`.类名`（例如`.text`）作为选择器
-在标签中加上`class="text"`来应用样式
-
-#### id 选择器
-使用`#id名`（例如`#text`）作为选择器
-标签中加上`id="text"`来应用样式
+[CSS 样式](#CSS-样式)
 
 ## `<body>` 网页内容
 ### style 参数 行内样式
@@ -292,6 +277,45 @@ table ( thead ( th th ) tbody ( tr ( td td ) tr ( td td ) ) )
 - `colspan` 水平跨度（跨过多列）
 - `rowspan` 垂直跨度（跨过多行）
 
+# CSS 参数
+
+格式
+```
+选择器 { 参数: 值; 参数: 值; }
+```
+[style 样式参数](#style-样式参数)
+
+优先级：`id 选择器 > 类选择器 > 标签选择器`
+
+## 引入其它 CSS
+`@import url('*');` * 为 CSS 路径
+
+## 选择器
+
+### 标签选择器
+直接使用标签 `body` `h1` `p` 等作为选择器
+
+### 类选择器
+使用`.类名`（例如`.text`）作为选择器
+在标签中加上`class="text"`来应用样式
+
+### id 选择器
+使用`#id名`（例如`#text`）作为选择器
+标签中加上`id="text"`来应用样式
+
+### 伪类
+选择器:伪类
+`link` 未访问的链接
+`visited` 已访问的链接
+`hover` 鼠标悬停
+`active` 选中的链接
+
+`input:focus` 输入框获得焦点
+
+`first-child` 父元素的第一个子元素
+`last-child` 父元素的最后一个子元素
+`nth-child(*)` 父元素的第\*个子元素
+
 ## style 样式参数
 `color` [颜色](#颜色)
 `background-color` 背景[颜色](#颜色)
@@ -368,26 +392,10 @@ table ( thead ( th th ) tbody ( tr ( td td ) tr ( td td ) ) )
 ### 颜色
 详见 [CSS Color Module Level 3](https://www.w3.org/TR/css-color-3)
 
-### 伪类
-选择器:伪类
-`link` 未访问的链接
-`visited` 已访问的链接
-`hover` 鼠标悬停
-`active` 选中的链接
-
-`input:focus` 输入框获得焦点
-
-`first-child` 父元素的第一个子元素
-`last-child` 父元素的最后一个子元素
-`nth-child(*)` 父元素的第\*个子元素
-
-
-## 去除`<a>`超链接的特殊效果
+### 去除`<a>`超链接的特殊效果
 ```
-<style>
 a {
   color: inherit;
   text-decoration: none;
 }
-</style>
 ```
