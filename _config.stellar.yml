@@ -120,7 +120,7 @@ site_tree:
     # 可以在笔记的 front-matter/menu_id 中覆盖此参数。
     menu_id: notebooks
     # 笔记列表页的左侧栏和右侧栏。可以在笔记本 yaml 的 leftbar 和 rightbar 字段中覆盖此参数。
-    leftbar: notestree, tagtree # recent of current notebook
+    leftbar: notebooks, notestree, tagtree # recent of current notebook
     rightbar: ghuser, ghrepo, recent
   # 笔记页配置
   note:
