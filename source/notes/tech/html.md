@@ -1,7 +1,7 @@
 ---
 title: 自用 HTML & CSS 学习笔记
 date: 2025-09-03 18:32:32
-updated: 2025-10-16 16:30:16
+updated: 2025-10-21 17:53:36
 notebook: notes
 tags:
  - HTML
@@ -391,6 +391,17 @@ table ( thead ( th th ) tbody ( tr ( td td ) tr ( td td ) ) )
 
 ### 颜色
 详见 [CSS Color Module Level 3](https://www.w3.org/TR/css-color-3)
+
+#### 渐变
+线性渐变 `linear-gradient`
+径向渐变 `radial-gradient`
+锥形渐变 `conic-gradient`
+重复线性渐变 `repeating-linear-gradient`
+重复径向渐变 `repeating-radial-gradient`
+重复锥形渐变 `repeating-conic-gradient`
+详见 [使用 CSS 渐变](https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_images/Using_CSS_gradients)
+**实际返回值是图片 所以需要用于`-image`而不是`-color`的参数**
+
 
 ### 去除`<a>`超链接的特殊效果
 ```

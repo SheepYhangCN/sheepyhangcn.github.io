@@ -1,7 +1,7 @@
 ---
 title: Namesilo域名+CDN加速
 date: 2024-01-18 01:10:32
-updated: 2024-01-18 01:10:32
+updated: 2024-06-30 20:54:20
 categories: [博客更新]
 repo: SheepYhangCN/sheepyhangcn.github.io
 tags:
