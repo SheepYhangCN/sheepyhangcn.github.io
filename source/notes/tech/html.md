@@ -135,13 +135,13 @@ html ( style (CSS样式) head (网页头) body (网页内容) )
   - `zh-Hans-CN` 简体中文
   - `zh` 中文
 
+## `<style>` 内嵌样式
+[CSS 参数](#CSS-参数)
+
 ## `<head>` 网页头
-`<link rel="stylesheet" type="text/css" href="<CSS标签路径>">` 引入 CSS（单标签）
+`<link rel="stylesheet" type="text/css" href="<CSS路径>">` 引入 CSS（单标签）
 `<meta charset="utf-8">` 网页代码页（单标签）
 `<title>` 标题（双标签）
-
-### `<style>` 内嵌样式
-[CSS 样式](#CSS-样式)
 
 ## `<body>` 网页内容
 ### style 参数 行内样式
@@ -166,6 +166,8 @@ html ( style (CSS样式) head (网页头) body (网页内容) )
 - `alt` 图片显示不出时显示的文本
 - `width` 宽度
 - `height` 高度
+
+`<figcaption>` 图片下方注释
 
 ### 双标签
 `<span>` 文本容器 用于同一行中应用不同样式
@@ -210,6 +212,8 @@ html ( style (CSS样式) head (网页头) body (网页内容) )
 - `outset` 3D 突出
 
 `border-color` 边框[颜色](#颜色) 接受1-4个值 上右下左
+`border-image` 边框图像
+`border-image-slice` 九宫格分割
 
 ##### 背景
 `background-color` 背景[颜色](#颜色)
@@ -277,6 +281,11 @@ table ( thead ( th th ) tbody ( tr ( td td ) tr ( td td ) ) )
 - `colspan` 水平跨度（跨过多列）
 - `rowspan` 垂直跨度（跨过多行）
 
+#### 术语描述列表
+`<dl>` 列表
+`<dt>` 术语
+`<dd>` 描述
+
 # CSS 参数
 
 格式
@@ -288,7 +297,7 @@ table ( thead ( th th ) tbody ( tr ( td td ) tr ( td td ) ) )
 优先级：`id 选择器 > 类选择器 > 标签选择器`
 
 ## 引入其它 CSS
-`@import url('*');` * 为 CSS 路径
+`@import url('<CSS路径>');`
 
 ## 选择器
 
@@ -372,7 +381,9 @@ table ( thead ( th th ) tbody ( tr ( td td ) tr ( td td ) ) )
 
 `border-radius` 圆角 接收上右下左四个值
 
-`border-collapse: collapse` (table only) 合并表格与单元格边框
+`border-collapse` 是否合并相邻单元格的边框
+- `seperate` 不合并
+- `collapse` 合并
 
 `display` 显示类型
 - `block` 块级元素 开新行
@@ -388,6 +399,23 @@ table ( thead ( th th ) tbody ( tr ( td td ) tr ( td td ) ) )
 - `none` 预设值 无
 - `left` 左
 - `right` 右
+
+`list-style-type` 列表符号样式
+- `<ol>` 有序列表
+  - `decimal` 数字
+  - `lower-alpha` 小写英文字母
+  - `upper-alpha` 大写英文字母
+  - `lower-roman` 小写罗马数字
+  - `upper-roman` 大写罗马数字
+- `<ul>` 无序列表
+  - `dise` 实心圆
+  - `circle` 空心圆
+  - `square` 实心矩形
+
+`list-style-image` 列表符号图像
+`list-style-position` 列表符号位置
+- `outside` 在后方文本块之外
+- `inside` 在后方文本块之内
 
 ### 颜色
 详见 [CSS Color Module Level 3](https://www.w3.org/TR/css-color-3)
