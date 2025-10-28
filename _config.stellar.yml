@@ -380,7 +380,7 @@ footer:
     #     - '[xxx](/)'
     #     - '[xxx](/)'
   content: | # 支持 Markdown 格式
-    © 2023 - 2025 [{author.name}](/about/) Powered by [Hexo 8.0.0](https://hexo.io) & [{theme.name} {theme.version}]({theme.tree})
+    © 2023 - 2025 [{author.name}](/about/) Powered by [Hexo](https://hexo.io) & [{theme.name} {theme.version}]({theme.tree})
     由 Github Pages & Cloudflare CDN 驱动 - 本站源代码仓库见 [Github](https://github.com/SheepYhangCN/sheepyhangcn.github.io)
     本站所有文章除特别声明外，均采用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans) 许可协议，转载请注明出处。
     
