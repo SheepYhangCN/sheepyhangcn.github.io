@@ -45,6 +45,8 @@ notestree:
       url: /notes/tech/mysql/
     - title: HTML & CSS
       url: /notes/tech/html/
+    - title: eNSP
+      url: /notes/tech/ensp/
 
 related:
   layout: related
