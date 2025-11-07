@@ -2,14 +2,13 @@
 title: OKR - 目标与关键成果
 subtitle: <b>O</b>bjectives and <b>K</b>ey <b>R</b>esults
 date: 1
-updated: 2025-11-07 20:16:58
+updated: 2025-11-07 20:21:05
 menu_id: notebooks
 leftbar: notebooks, tagtree
 rightbar: ghuser, ghrepo, toc
 ---
 
-{% quot OKR icon:hashtag el:h6 %}
-
+{% quot 个人学习 & 证书考取 icon:hashtag el:h6 %}
 {% okr o-1 %}
 
 个人学习 & 证书考取
@@ -47,6 +46,7 @@ HCIA-Datacom
 
 {% endokr %}
 
+{% quot 游戏项目 icon:hashtag el:h6 %}
 {% okr o-2 %}
 
 游戏项目
@@ -73,6 +73,7 @@ OMORITALE
 
 {% endokr %}
 
+{% quot 中文本地化项目 icon:hashtag el:h6 %}
 {% okr o-3 %}
 
 中文本地化项目
@@ -95,6 +96,7 @@ DELTARUNE 第 1-4 章
 
 {% endokr %}
 
+{% quot 博客 icon:hashtag el:h6 %}
 {% okr o-4 %}
 
 博客
@@ -115,11 +117,17 @@ OKR 页面
 也就是你现在正在看的页面
 
 <!-- okr kr4 percent:0-->
+收藏夹
+一个收集各种网页的文章
+放 OKR 下面
+
+<!-- okr kr5 percent:0-->
 友链
 WIP
 
 {% endokr %}
 
+{% quot 编程开发相关 icon:hashtag el:h6 %}
 {% okr o-5 %}
 
 编程开发相关
