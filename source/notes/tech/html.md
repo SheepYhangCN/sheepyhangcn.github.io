@@ -1,7 +1,7 @@
 ---
 title: 自用 HTML & CSS 学习笔记
 date: 2025-09-03 18:32:32
-updated: 2025-10-28 17:31:36
+updated: 2025-11-07 16:43:18
 notebook: notes
 tags:
  - HTML
@@ -430,11 +430,28 @@ table ( thead ( th th ) tbody ( tr ( td td ) tr ( td td ) ) )
 详见 [使用 CSS 渐变](https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_images/Using_CSS_gradients)
 **实际返回值是图片 所以需要用于`-image`而不是`-color`的参数**
 
+### 解法速查
 
-### 去除`<a>`超链接的特殊效果
+#### 去除`<a>`超链接的特殊效果
 ```
 a {
   color: inherit;
   text-decoration: none;
+}
+```
+
+#### 让`<li>`里的`a`实现填充背景
+```
+a {
+  display: block;
+}
+```
+
+#### 居中元素
+**（改为块然后设置左右margin为auto）**
+```
+<选择器> {
+  display: block;
+  margin: 0 auto;
 }
 ```
