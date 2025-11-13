@@ -1,7 +1,7 @@
 ---
 title: 自用 HTML & CSS 学习笔记
 date: 2025-09-03 18:32:32
-updated: 2025-11-07 16:43:18
+updated: 2025-11-13 17:54:13
 notebook: notes
 tags:
  - HTML
@@ -169,6 +169,41 @@ html ( style (CSS样式) head (网页头) body (网页内容) )
 
 `<figcaption>` 图片下方注释
 
+`<form>` 表单
+- `method` 提交方式 默认`get` 接受`post`
+- `action` 提交的 URL
+
+`<input>` 输入表单
+- `type` 类型
+  - `text` 文本，默认
+  - `button` 按钮
+  - `checkbox` 复选框
+  - `color` 颜色选择
+  - `date` 日期
+  - `datetime-local` 日期时间，不包含时区
+  - `time` 时间
+  - `month` 年和月
+  - `week` 年和周
+  - `file` 接受档案
+  - `email` 电子信箱
+  - `image` 图像
+  - `password` 密码
+  - `radio` 单选选项
+  - `range` 拉动条组件
+  - `search` 搜索
+  - `tel` 电话
+  - `url` URL
+  - `submit` 提交按钮
+  - `reset` 重设表单为预设
+- `pattern` 检验用的表达式
+- `checked` 是否被选中
+- `value` 值
+- `placeholder` 没有值时的背景内容
+- `required` 必须
+- `readonly` 只读
+- `multiple` 允许多个值
+- `min/max` 最小值/最大值
+
 ### 双标签
 `<span>` 文本容器 用于同一行中应用不同样式
 
@@ -324,6 +359,9 @@ table ( thead ( th th ) tbody ( tr ( td td ) tr ( td td ) ) )
 `first-child` 父元素的第一个子元素
 `last-child` 父元素的最后一个子元素
 `nth-child(*)` 父元素的第\*个子元素
+- `<数字>`
+- `even` 偶数
+- `odd` 奇数
 
 ## style 样式参数
 `color` [颜色](#颜色)
@@ -416,6 +454,14 @@ table ( thead ( th th ) tbody ( tr ( td td ) tr ( td td ) ) )
 `list-style-position` 列表符号位置
 - `outside` 在后方文本块之外
 - `inside` 在后方文本块之内
+
+`overflow` 内容溢出时行为
+- `visible` 不裁剪允许出框，默认
+- `hidden` 隐藏出框部分
+- `clip` 同上，但完全禁用滚动
+- `scroll` 始终添加滚动条
+- `auto` 不溢出时与`visible`相同，溢出时与`scroll`相同
+- `overlay` 同上，但滚动条处于内容上方而非空间内
 
 ### 颜色
 详见 [CSS Color Module Level 3](https://www.w3.org/TR/css-color-3)
