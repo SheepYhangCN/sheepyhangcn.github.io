@@ -1,7 +1,7 @@
 ---
 title: 自用 HTML & CSS 学习笔记
 date: 2025-09-03 18:32:32
-updated: 2025-11-13 17:54:13
+updated: 2025-12-16 18:04:44
 notebook: notes
 tags:
  - HTML
@@ -167,12 +167,6 @@ html ( style (CSS样式) head (网页头) body (网页内容) )
 - `width` 宽度
 - `height` 高度
 
-`<figcaption>` 图片下方注释
-
-`<form>` 表单
-- `method` 提交方式 默认`get` 接受`post`
-- `action` 提交的 URL
-
 `<input>` 输入表单
 - `type` 类型
   - `text` 文本，默认
@@ -205,6 +199,10 @@ html ( style (CSS样式) head (网页头) body (网页内容) )
 - `min/max` 最小值/最大值
 
 ### 双标签
+`<script>` 引入脚本，标签内写入 JS 代码，通常写在 body 的最后
+- `type` JavaScript 使用 `text/javascript`
+- `src` 外部 JS 档案，会覆盖标签内写的 JS 代码
+
 `<span>` 文本容器 用于同一行中应用不同样式
 
 `<b>` 加粗
@@ -225,6 +223,18 @@ html ( style (CSS样式) head (网页头) body (网页内容) )
   - 默认`_self`当前标签页打开
   - `_blank`新标签页打开
 
+`<figcaption>` 图片下方注释
+
+`<form>` 表单
+- `method` 提交方式 默认`get` 接受`post`
+- `action` 提交的 URL
+
+`select` 下拉选项框
+`option` 下拉选项框的选项
+- `value` 值
+
+`textarea` 多行输入区域
+
 #### `<div>`
 `width` 宽度
 `height` 高度
@@ -237,6 +247,7 @@ html ( style (CSS样式) head (网页头) body (网页内容) )
 
 `border-style` 边框样式 接受1-4个值 上右下左
 - `none` 无
+- `hidden` 无，覆盖其它边框
 - `dotted` 点画线
 - `dashed` 虚线
 - `solid` 实线
@@ -363,6 +374,9 @@ table ( thead ( th th ) tbody ( tr ( td td ) tr ( td td ) ) )
 - `even` 偶数
 - `odd` 奇数
 
+### 属性匹配
+选择器\[属性=值\]
+
 ## style 样式参数
 `color` [颜色](#颜色)
 `background-color` 背景[颜色](#颜色)
@@ -417,6 +431,9 @@ table ( thead ( th th ) tbody ( tr ( td td ) tr ( td td ) ) )
 - `cover` 保持比例拉伸裁切
 - `scale-down` 自动选择 `none` 或 `contain` 中较小的
 
+`object-position` 图片填充后的偏移位置
+- 参数接受 `<X偏移> <Y偏移>`，0% - 100%
+
 `border-radius` 圆角 接收上右下左四个值
 
 `border-collapse` 是否合并相邻单元格的边框
@@ -462,6 +479,28 @@ table ( thead ( th th ) tbody ( tr ( td td ) tr ( td td ) ) )
 - `scroll` 始终添加滚动条
 - `auto` 不溢出时与`visible`相同，溢出时与`scroll`相同
 - `overlay` 同上，但滚动条处于内容上方而非空间内
+
+`column-count` 分列，列数
+`column-gap` 分列的间隔
+`column-width` 列宽
+`column-span` 元素横跨多少列
+- `<数字>`
+- `all` 横跨所有列
+
+`column-rule` 列边框
+- `column-rule-width` 宽度
+- `column-rule-style` 类型
+- `column-rule-color` [颜色](#颜色)
+  - `none` 无
+  - `hidden` 无，覆盖其它边框
+  - `dotted` 点画线
+  - `dashed` 虚线
+  - `solid` 实线
+  - `double` 双层
+  - `groove` 3D 沟槽
+  - `ridge` 3D 脊
+  - `inset` 3D 嵌入
+  - `outset` 3D 突出
 
 ### 颜色
 详见 [CSS Color Module Level 3](https://www.w3.org/TR/css-color-3)
