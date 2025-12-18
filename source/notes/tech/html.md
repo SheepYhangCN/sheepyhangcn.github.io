@@ -1,7 +1,7 @@
 ---
 title: 自用 HTML & CSS 学习笔记
 date: 2025-09-03 18:32:32
-updated: 2025-12-16 18:04:44
+updated: 2025-12-18 18:38:11
 notebook: notes
 tags:
  - HTML
@@ -489,8 +489,8 @@ table ( thead ( th th ) tbody ( tr ( td td ) tr ( td td ) ) )
 
 `column-rule` 列边框
 - `column-rule-width` 宽度
-- `column-rule-style` 类型
 - `column-rule-color` [颜色](#颜色)
+- `column-rule-style` 类型
   - `none` 无
   - `hidden` 无，覆盖其它边框
   - `dotted` 点画线
