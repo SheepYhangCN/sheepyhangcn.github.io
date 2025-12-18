@@ -1,0 +1,75 @@
+- title: Kenney
+  url: https://www.kenney.nl/assets
+  cover:
+  icon:
+  description: 免费游戏素材
+- title: Mixkit
+  url: https://mixkit.co/
+  cover:
+  icon:
+  description: 免费音频素材
+- title: Freesound
+  url: https://freesound.org/
+  cover:
+  icon:
+  description: 免费音频素材
+- title: jsfxr
+  url: https://sfxr.me/
+  cover:
+  icon:
+  description: 8 位音效素材在线生成
+- title: itch.io
+  url: https://itch.io/
+  cover:
+  icon:
+  description: 游戏 & 开发素材
+- title: 东方场景
+  url: https://w.atwiki.jp/vpvpwiki/pages/408.html
+  cover:
+  icon:
+  description: 东方 MMD 场景收录
+- title: 帕琪的岁月档案馆
+  url: http://patchouli-archive.top/
+  cover:
+  icon:
+  description: 东方 MMD 模型数据库
+- title: nicotalk
+  url: http://www.nicotalk.com/charasozai_kt.html
+  cover:
+  icon:
+  description: 油库里素材配布
+- title: あみたろの声素材工房
+  url: https://amitaro.net/
+  cover:
+  icon:
+  description: 日语免费声音素材
+- title: NVL 素材
+  url: https://www.nvlmaker.net/material.html
+  cover:
+  icon:
+  description: AVG 共享素材
+- title: BB 创作资源合集
+  url: https://www.yuque.com/mhmzh/shares/files
+  cover:
+  icon:
+  description: 素材 for Blockbuster
+- title: MidiShow
+  url: https://www.midishow.com/zh-tw
+  cover:
+  icon:
+  description: Midi 音乐
+- title: BowlRoll
+  url: https://bowlroll.net/
+  cover:
+  icon:
+  description: MMD 模型
+- title: 模之屋
+  url: https://www.aplaybox.com/
+  cover:
+  icon:
+  description: 3D 模型
+- title: Sketchfab
+  url: https://sketchfab.com/
+  cover:
+  icon:
+  description: 3D 模型

@@ -1,0 +1,110 @@
+- title: Godot Engine 文档
+  url: https://docs.godotengine.org/
+  cover:
+  icon:
+  description:
+- title: GameMaker 手册
+  url: https://manual.yoyogames.com/
+  cover:
+  icon:
+  description:
+- title: Unity 文档
+  url: https://docs.unity3d.com/
+  cover:
+  icon:
+  description:
+- title: Unreal Engine 文档
+  url: https://dev.epicgames.com/documentation/
+  cover:
+  icon:
+  description:
+- title: Blender 文档
+  url: https://docs.blender.org/manual/
+  cover:
+  icon:
+  description:
+- title: C# 语言文档
+  url: https://learn.microsoft.com/dotnet/csharp/
+  cover:
+  icon:
+  description:
+- title: Rust 语言文档
+  url: https://doc.rust-lang.org/book/
+  cover:
+  icon:
+  description:
+- title: Weblate 文档
+  url: https://docs.weblate.org/
+  cover:
+  icon:
+  description:
+- title: Krita 文档
+  url: https://docs.krita.org/
+  cover:
+  icon:
+  description:
+- title: Steamworks 文档
+  url: https://partner.steamgames.com/doc/home
+  cover:
+  icon:
+  description:
+- title: Epic Games 文档
+  url: https://dev.epicgames.com/docs/
+  cover:
+  icon:
+  description:
+- title: Github 文档
+  url: https://docs.github.com/
+  cover:
+  icon:
+  description:
+- title: Gitlab 文档
+  url: https://docs.gitlab.com/
+  cover:
+  icon:
+  description:
+- title: 1Panel 文档
+  url: hhttps://1panel.cn/docs/
+  cover:
+  icon:
+  description:
+- title: Avalonia 文档
+  url: https://docs.avaloniaui.net/zh-Hans/
+  cover:
+  icon:
+  description:
+- title: Cloudflare 文档
+  url: https://developers.cloudflare.com/
+  cover:
+  icon:
+  description:
+- title: S&box 文档
+  url: https://docs.facepunch.com/s/sbox-dev/
+  cover:
+  icon:
+  description:
+- title: Hexo 文档
+  url: https://hexo.io/docs/
+  cover:
+  icon:
+  description:
+- title: mod.io 文档
+  url: https://docs.mod.io/
+  cover:
+  icon:
+  description:
+- title: MDN Web 文档
+  url: https://developer.mozilla.org/docs/Web/
+  cover:
+  icon:
+  description: HTML & CSS & JS
+- title: How To Cook
+  url: https://cook.aiursoft.cn/
+  cover:
+  icon:
+  description: 煮饭的文档
+- title: 从零音乐教程
+  url: https://learningmusic.ableton.com/
+  cover:
+  icon:
+  description:

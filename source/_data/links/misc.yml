@@ -1,0 +1,60 @@
+- title: CFPA 整合包汉化
+  url: https://modpack.cfpa.team/
+  cover:
+  icon:
+  description: MC 整合包汉化补丁下载，已年久失修
+- title: 微软 OpenJDK
+  url: https://learn.microsoft.com/java/openjdk/download
+  cover:
+  icon:
+  description: 下载微软 OpenJDK 构建
+- title: GarticPhone
+  url: https://garticphone.com/
+  cover:
+  icon:
+  description: 你画我猜还有画画接龙之类的，好玩
+- title: 提问的智慧
+  url: https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md
+  cover:
+  icon:
+  description: 丢给别人看的主要是
+- title: 幻想乡电台
+  url: https://gensokyoradio.net/playing/
+  cover:
+  icon:
+  description: 全天候播放东方相关歌曲
+- title: BEMANICN
+  url: https://map.bemanicn.com/
+  cover:
+  icon:
+  description: 全国街机音游地图
+- title: Bestdori
+  url: https://bestdori.com/
+  cover:
+  icon:
+  description: BanG Dream! 数据库
+- title: Bangumi
+  url: https://bangumi.tv/
+  cover:
+  icon:
+  description: ACG 数据库
+- title: SteamDB
+  url: https://steamdb.info/
+  cover:
+  icon:
+  description: Steam 数据库
+- title: SteamGridDB
+  url: https://www.steamgriddb.com/
+  cover:
+  icon:
+  description: Steam 游戏图库数据库
+- title: AirPortal
+  url: https://www.airportal.cn/
+  cover:
+  icon:
+  description: 空投快传 文件传输
+- title: Wormhole
+  url: https://wormhole.app/
+  cover:
+  icon:
+  description: 文件传输 端对端加密

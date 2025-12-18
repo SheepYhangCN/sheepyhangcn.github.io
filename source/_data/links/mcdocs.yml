@@ -1,0 +1,40 @@
+- title: 原版模组入门教程
+  url: https://ruhuasiyu.github.io/VanillaModTutorial/
+  cover:
+  icon:
+  description:
+- title: 森罗万象
+  url: http://sqwatermark.com/resguide/
+  cover:
+  icon:
+  description: 资源包指南
+- title: 正山小种
+  url: https://www.teacon.cn/xiaozhong
+  cover:
+  icon:
+  description: Forge 模组开发指南
+- title: MineGraph 文档 
+  url: https://mgcd.hypercol.com/home.html
+  cover:
+  icon:
+  description: 图形学社区文档
+- title: HoloJaneway
+  url: https://holojaneway.uss-shenzhou.cn/holojaneway
+  cover:
+  icon:
+  description: Mod 开发教程
+- title: NeoForged 文档
+  url: https://docs.neoforged.net/
+  cover:
+  icon:
+  description:
+- title: Fabric 文档
+  url: https://docs.fabricmc.net/
+  cover:
+  icon:
+  description:
+- title: 开发者中文指南
+  url: https://mouse0w0.github.io/MinecraftDeveloperGuide/
+  cover:
+  icon:
+  description:

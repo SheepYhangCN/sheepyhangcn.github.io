@@ -1,0 +1,100 @@
+- title: Convertio
+  url: https://convertio.co/
+  cover:
+  icon:
+  description: 档案格式转换
+- title: MikuTools
+  url: https://tools.miku.ac/
+  cover:
+  icon:
+  description:
+- title: Easings.net
+  url: https://easings.net/zh-cn
+  cover:
+  icon:
+  description: 缓动函数查查表
+- title: YT1s
+  url: https://yt1s.com/
+  cover:
+  icon:
+  description: YT 视频下载
+- title: DownSub
+  url: https://downsub.com/
+  cover:
+  icon:
+  description: YT 视频字幕下载
+- title: Thumbnail Grabber
+  url: https://youtube-thumbnail-grabber.com/
+  cover:
+  icon:
+  description: YT 视频封面下载
+- title: Photopea
+  url: https://www.photopea.com/
+  cover:
+  icon:
+  description: 在线图像编辑
+- title: 乱码恢复
+  url: http://www.mytju.com/classCode/tools/messyCodeRecover.asp
+  cover:
+  icon:
+  description: 快速恢复编码错误乱码
+- title: DeepL
+  url: https://www.deepl.com/translator
+  cover:
+  icon:
+  description: 翻译
+- title: Cambridge 词典
+  url: https://dictionary.cambridge.org/
+  cover:
+  icon:
+  description: 剑桥英语词典
+- title: I Tell you
+  url: https://msdn.itellyou.cn/
+  cover:
+  icon:
+  description: 下载较旧系统镜像
+- title: I Tell you 新版
+  url: https://next.itellyou.cn/Original/Index
+  cover:
+  icon:
+  description: 下载系统镜像
+- title: 5000兆円ジェネレーター
+  url: https://yurafuca.com/5000choyen/index_cn.html
+  cover:
+  icon:
+  description: 生成 5000 円梗图
+- title: 转片假名工具
+  url: https://www.ltool.net/chinese_simplified_and_traditional_characters_pinyin_to_katakana_converter_in_simplified_chinese.php
+  cover:
+  icon:
+  description: 汉字拼音转片假名工具
+- title: 油库里语音生成
+  url: https://www.yukumo.net/
+  cover:
+  icon:
+  description:
+- title: MCUUID
+  url: https://mcuuid.net/
+  cover:
+  icon:
+  description: MC 转换 UUID 与用户名
+- title: Item Modifier
+  url: https://misode.github.io/item-modifier/
+  cover:
+  icon:
+  description: MC 物品修改器
+- title: mclo.gs
+  url: https://mclo.gs/
+  cover:
+  icon:
+  description: MC 日志上传
+- title: FLiNG Trainer
+  url: https://flingtrainer.com/
+  cover:
+  icon:
+  description: 风灵月影修改器
+- title: IPv6 Test
+  url: https://test-ipv6.com/
+  cover:
+  icon:
+  description: 本地 IPv6 状况测试

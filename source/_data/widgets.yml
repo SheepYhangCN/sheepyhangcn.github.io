@@ -29,6 +29,8 @@ notebooks:
   items:
     - title: OKR
       url: /okr/
+    - title: 网站收藏夹
+      url: /links/
     - title: <b>所有笔记本</b>
       url: /notebooks/
     - title: 计算机技术
