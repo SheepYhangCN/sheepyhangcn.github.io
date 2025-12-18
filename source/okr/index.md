@@ -2,7 +2,7 @@
 title: OKR - 目标与关键成果
 subtitle: <b>O</b>bjectives and <b>K</b>ey <b>R</b>esults
 date: 1
-updated: 2025-11-07 20:21:05
+updated: 2025-12-18 18:45:02
 menu_id: notebooks
 leftbar: notebooks, tagtree
 rightbar: ghuser, ghrepo, toc
@@ -13,23 +13,23 @@ rightbar: ghuser, ghrepo, toc
 
 个人学习 & 证书考取
 
-<!-- okr kr-1 percent:15-->
+<!-- okr kr-1 percent:20-->
 学习日文
 目前进度：五十音图背下大部分，会了少量词汇
 
-<!-- okr kr-2 percent:20 status:off_track-->
+<!-- okr kr-2 percent:40 status:off_track-->
 学习 C++
 暂无时间学
-目前进度：少量基本语法，给 Godot 发 PR 实践也算学
+目前进度：基本语法，给 Godot 发 PR 实践也算学
 
 <!-- okr kr-3 percent:0 status:off_track-->
 学习 Rust
-我不到啊 某人叫我学
 暂时没时间 就先写在这
 
-<!-- okr kr-4 percent:50-->
+<!-- okr kr-4 percent:100-->
 HCIA-Datacom
-因为考了 1+X，所以等我考个 Upgrade
+1+X 然后 Upgrade，已拿下
+不会再往上努力了
 我恨 eNSP。
 
 <!-- okr kr-5 percent:33-->
@@ -43,6 +43,10 @@ HCIA-Datacom
 {% checkbox Duolingo %}
 {% checkbox IELTS %}
 {% checkbox TOEFL %}
+
+<!-- okr kr-6 percent:0-->
+软考
+准备中
 
 {% endokr %}
 
