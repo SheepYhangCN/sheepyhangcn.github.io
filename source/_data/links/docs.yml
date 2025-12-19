@@ -69,7 +69,12 @@
   icon:
   description:
 - title: Avalonia 文档
-  url: https://docs.avaloniaui.net/zh-Hans/
+  url: https://docs.avaloniaui.net/
+  cover:
+  icon:
+  description:
+- title: Docker 文档
+  url: https://docs.docker.com/
   cover:
   icon:
   description:
