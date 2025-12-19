@@ -2,7 +2,7 @@
 title: OKR - 目标与关键成果
 subtitle: <b>O</b>bjectives and <b>K</b>ey <b>R</b>esults
 date: 1
-updated: 2025-12-18 18:45:02
+updated: 2025-12-19 20:02:03
 menu_id: notebooks
 leftbar: notebooks, tagtree
 rightbar: ghuser, ghrepo, toc
