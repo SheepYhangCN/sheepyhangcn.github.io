@@ -120,7 +120,7 @@ DELTARUNE 第 1-4 章
 OKR 页面
 也就是你现在正在看的页面
 
-<!-- okr kr-4 percent:0-->
+<!-- okr kr-4 percent:100-->
 收藏夹
 一个收集各种网页的文章
 放 OKR 下面
