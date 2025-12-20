@@ -8,11 +8,6 @@
   cover:
   icon:
   description: 下载微软 OpenJDK 构建
-- title: GarticPhone
-  url: https://garticphone.com/
-  cover:
-  icon:
-  description: 你画我猜还有画画接龙之类的，好玩
 - title: 提问的智慧
   url: https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md
   cover:
@@ -48,13 +43,8 @@
   cover:
   icon:
   description: Steam 游戏图库数据库
-- title: AirPortal
-  url: https://www.airportal.cn/
+- title: FLiNG Trainer
+  url: https://flingtrainer.com/
   cover:
   icon:
-  description: 空投快传 文件传输
-- title: Wormhole
-  url: https://wormhole.app/
-  cover:
-  icon:
-  description: 文件传输 端对端加密
+  description: 风灵月影修改器

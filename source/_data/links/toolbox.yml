@@ -88,13 +88,18 @@
   cover:
   icon:
   description: MC 日志上传
-- title: FLiNG Trainer
-  url: https://flingtrainer.com/
-  cover:
-  icon:
-  description: 风灵月影修改器
 - title: IPv6 Test
   url: https://test-ipv6.com/
   cover:
   icon:
   description: 本地 IPv6 状况测试
+- title: AirPortal
+  url: https://www.airportal.cn/
+  cover:
+  icon:
+  description: 空投快传 文件传输
+- title: Wormhole
+  url: https://wormhole.app/
+  cover:
+  icon:
+  description: 文件传输 端对端加密
