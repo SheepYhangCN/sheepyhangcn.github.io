@@ -108,6 +108,11 @@
   cover:
   icon:
   description: 煮饭的文档
+- title: whk wiki
+  url: https://whk-wiki.github.io/whk-wiki/
+  cover:
+  icon:
+  description: 数理化
 - title: 从零音乐教程
   url: https://learningmusic.ableton.com/
   cover:
