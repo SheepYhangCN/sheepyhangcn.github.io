@@ -1,7 +1,7 @@
 ---
 title: 关于
 date: 1
-updated: 2025-11-07 16:47:40
+updated: 2026-01-17 17:06:14
 menu_id: about
 ---
 
@@ -101,7 +101,10 @@ Girls Band Cry
 MyGO / Ave Mujica
 虚构推理
 为美好的世界送上祝福
-邪神与厨二病少女</details>
+Re：从零开始的异世界生活
+魔女之旅
+邪神与厨二病少女
+小林家的龙女仆</details>
 <details>
 <summary>游戏 比较常玩的非单机 和已通关且一直都持续有在观看/创作二创等的单机游戏</summary>
 
@@ -128,7 +131,8 @@ Garry's Mod
 s&box
 Grand Theft Auto
 Cyberpunk 2077
-逆转裁判
+逆转裁判 / 逆转检事 / 大逆转裁判
+弹丸论破
 Roblox
 Plants Vs Zombies
 Phigros
