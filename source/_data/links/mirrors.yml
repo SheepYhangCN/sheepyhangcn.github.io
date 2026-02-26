@@ -48,3 +48,8 @@
   cover:
   icon:
   description: Docker Hub
+- title: LinuxMirrors
+  url: https://linuxmirrors.cn/
+  cover:
+  icon:
+  description: GNU/Linux 快速换源脚本
