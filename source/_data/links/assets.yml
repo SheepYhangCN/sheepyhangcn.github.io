@@ -13,6 +13,11 @@
   cover:
   icon:
   description: 免费音频素材
+- title: SVG Repo
+  url: https://www.svgrepo.com/
+  cover:
+  icon:
+  description: SVG 图标
 - title: jsfxr
   url: https://sfxr.me/
   cover:
@@ -73,3 +78,8 @@
   cover:
   icon:
   description: 3D 模型
+- title: Mixamo
+  url: https://www.mixamo.com/
+  cover:
+  icon:
+  description: 3D 模型绑骨动作
