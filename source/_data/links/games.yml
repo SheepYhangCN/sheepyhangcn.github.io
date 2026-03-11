@@ -3,6 +3,11 @@
   cover:
   icon:
   description:
+- title: Eaglecraft
+  url: https://eaglercraft.com/
+  cover:
+  icon:
+  description: MC 1.8.8 & 1.12.2 在线玩
 - title: MC.JS
   url: https://www.mc.js.cool/
   cover:
