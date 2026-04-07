@@ -14,6 +14,8 @@ indexs:
       url: /notebooks/
     - title: 归档
       url: /archives/
+    # - title: 友链
+    #   url: /friends/
 
 welcome:
   layout: markdown

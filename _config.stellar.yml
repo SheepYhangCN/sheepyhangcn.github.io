@@ -61,10 +61,10 @@ menubar:
       icon: solar:notebook-bookmark-bold-duotone
       title: 笔记
       url: /notebooks/
-    # - id: social
+    # - id: friends
     #   theme: '#F44336'
     #   icon: solar:chat-square-like-bold-duotone
-    #   title: 社交
+    #   title: 友链
     #   url: /friends/
 
 

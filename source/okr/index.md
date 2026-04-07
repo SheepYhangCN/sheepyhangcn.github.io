@@ -125,9 +125,11 @@ OKR 页面
 一个收集各种网页的文章
 放 OKR 下面
 
-<!-- okr kr-5 percent:0-->
+<!-- okr kr-5 percent:99 status:off_track-->
 友链
-WIP
+技术上来说做完了
+暂时没人能放，我也不是很想放陌生人的友链互换
+所以先不开入口
 
 {% endokr %}
 
