@@ -1,0 +1,35 @@
+- title: Minecraft Wiki
+  url: https://zh.minecraft.wiki/
+  cover:
+  icon:
+  description:
+- title: NameMC
+  url: https://zh-cn.namemc.com/
+  cover:
+  icon:
+  description: 皮肤数据查询
+- title: ChunkBase
+  url: https://www.chunkbase.com/apps/
+  cover:
+  icon:
+  description: 区块/结构查询
+- title: mclo.gs
+  url: https://mclo.gs/
+  cover:
+  icon:
+  description: 日志上传
+- title: MCUUID
+  url: https://mcuuid.net/
+  cover:
+  icon:
+  description: 转换 UUID 与用户名
+- title: Item Modifier
+  url: https://misode.github.io/item-modifier/
+  cover:
+  icon:
+  description: 物品修改器
+- title: mclo.gs
+  url: https://mclo.gs/
+  cover:
+  icon:
+  description: 日志上传

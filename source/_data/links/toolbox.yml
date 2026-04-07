@@ -73,21 +73,6 @@
   cover:
   icon:
   description:
-- title: MCUUID
-  url: https://mcuuid.net/
-  cover:
-  icon:
-  description: MC 转换 UUID 与用户名
-- title: Item Modifier
-  url: https://misode.github.io/item-modifier/
-  cover:
-  icon:
-  description: MC 物品修改器
-- title: mclo.gs
-  url: https://mclo.gs/
-  cover:
-  icon:
-  description: MC 日志上传
 - title: IPv6 Test
   url: https://test-ipv6.com/
   cover:
@@ -103,3 +88,8 @@
   cover:
   icon:
   description: 文件传输 端对端加密
+- title: 风灵月影
+  url: https://flingtrainer.com/
+  cover:
+  icon:
+  description:
