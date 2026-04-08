@@ -1,7 +1,7 @@
 ﻿---
 title: 新增了修订历史
 date: 2026-04-08 05:59:55
-updated: 2026-04-08 17:58:20
+updated: 2026-04-08 18:02:56
 categories: [博客更新]
 repo: SheepYhangCN/sheepyhangcn.github.io
 tags: 
@@ -34,3 +34,7 @@ tags:
 我不是很想动 hexo 的代码
 而且 Copilot 免费用量也用光了（byd花光了就搞出来个修订历史 这集拉了）
 所以说就之后再说吧 先继续手写
+
+2026.4.8 18:02
+才发现 `actions/checkout` 默认只会拉取最新 commit
+得加上 `fetch-depth: 0`	才行 
