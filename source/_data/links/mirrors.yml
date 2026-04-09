@@ -53,3 +53,8 @@
   cover:
   icon:
   description: GNU/Linux 快速换源脚本
+- title: JSDMirror
+  url: https://cdn.jsdmirror.com/
+  cover:
+  icon:
+  description: jsDelivr 国内镜像

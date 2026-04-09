@@ -8,4 +8,4 @@ leftbar: indexs, recent, related
 rightbar: ghuser, ghrepo, toc
 ---
 
-{% friends posts:true api:https://cdn.jsdelivr.net/gh/SheepYhangCN/friends@output/v2/data.json %}
+{% friends posts:true api:https://cdn.jsdmirror.com/gh/SheepYhangCN/friends@output/v2/data.json %}
