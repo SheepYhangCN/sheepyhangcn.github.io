@@ -14,7 +14,7 @@ Nexmoe 看腻了
 然后去掉了之前为了 Nexmoe 而设置的所有文章的头图
 
 然后 Stellar 不支援多个 rss
-所以只保留了 Atom，而且把链接改为了```https://sheepyuhang.top/rss.xml```
+所以只保留了 Atom，而且把链接改为了```https://blog.sheepyuhang.top/rss.xml```
 
 理论上来说 Stellar 是支援多语言的
 但是我实在没时间维护 + Stellar 似乎没有自带切换开关

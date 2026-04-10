@@ -11,8 +11,8 @@ tags:
 所以就给我的Blog也加上了
 Hexo官方就有这个插件 直接装上就能用了
 Atom和RSS 2.0都开了
-Atom：```https://sheepyuhang.top/atom.xml```
-RSS 2.0：```https://sheepyuhang.top/rss2.xml```
+Atom：```https://blog.sheepyuhang.top/atom.xml```
+RSS 2.0：```https://blog.sheepyuhang.top/rss2.xml```
 我看什么时候往网站下方加个rss图标
 
 2024/8/18 01:27
@@ -23,4 +23,4 @@ RSS 2.0：```https://sheepyuhang.top/rss2.xml```
 
 2025/10/15 13:10
 更换到了Stellar 然后这个不支援多个rss
-所以只保留了Atom，而且把链接改为了```https://sheepyuhang.top/rss.xml```
+所以只保留了Atom，而且把链接改为了```https://blog.sheepyuhang.top/rss.xml```

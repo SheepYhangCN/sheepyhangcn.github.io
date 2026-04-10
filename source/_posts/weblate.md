@@ -1,4 +1,4 @@
----
+﻿---
 title: 利用 Docker 在 Windows 本地部署 Weblate
 date: 2026-01-08 01:37:30
 categories: [研究记录]
@@ -31,7 +31,7 @@ byd给到我手上的译文是txt一行一条没有key
 ```
 就行
 加前最后一项最后的逗号别漏了
-镜像站见[这里](https://sheepyuhang.top/links/#%E9%95%9C%E5%83%8F%E7%AB%99)
+镜像站见[这里](https://blog.sheepyuhang.top/links/#%E9%95%9C%E5%83%8F%E7%AB%99)
 
 ## 拉取镜像并部署
 从 https://github.com/WeblateOrg/docker-compose 拉取 Weblate 的官方镜像
