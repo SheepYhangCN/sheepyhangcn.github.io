@@ -1,7 +1,7 @@
----
+﻿---
 title: 关于
 date: 1
-updated: 2026-01-17 17:06:14
+updated: 2026-04-12 00:47:16
 menu_id: about
 ---
 
@@ -176,6 +176,7 @@ Storyshift Asriel Fight By IGB Team - 简体中文/繁体中文
 STORYFELL Papyrus Fight By IGB Team - 繁体中文
 Undertale: Yellow - 简体中文（非官方）
 DELTARUNE (Chapter 3 & 4) - 简体中文（非官方）
+Dead Watch Demo - 繁体中文
 
 还有别的，想到再补
 
