@@ -32,7 +32,7 @@ jobs:
         run: |
           COMMIT_SHA=$(git rev-parse HEAD)
           COMMIT_SHA_SHORT=${COMMIT_SHA:0:7}
-          COMMIT_URL="https://github.com/SheepYhangCN/sheepyhangcn.github.io/commit/${COMMIT_SHA}"
+          COMMIT_URL="https://github.com/SheepYhangCN/sheepyhangcn.github.io/tree/${COMMIT_SHA}"
           sed -i "s|\[Github\](https://github.com/SheepYhangCN/sheepyhangcn.github.io)|[Github](https://github.com/SheepYhangCN/sheepyhangcn.github.io) [(${COMMIT_SHA_SHORT})](${COMMIT_URL})|" _config.stellar.yml
       - name: Build
         run: npm run build
