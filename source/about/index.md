@@ -180,10 +180,6 @@ Dead Watch Demo - 繁体中文
 
 还有别的，想到再补
 
-## 手头的游戏项目
-[OMORITALE](https://gamejolt.com/games/OMORITALE/685985)
-还有别的未公布项目
-
 ## 社交平台
 [lit.link](https://lit.link/sheepyuhang)
 
@@ -191,7 +187,7 @@ Dead Watch Demo - 繁体中文
 按照优先度排列，没事尽量不要找我扩列
  - [哔哩哔哩私聊](https://message.bilibili.com/#/whisper/mid252906762)
  - 电子邮箱：contact@sheepyuhang.top
- - Discord：sheepyhangcn
+ - Discord：sheepyuhang
  - QQ：973883035
 
 ## 人生信条 & 座右铭
