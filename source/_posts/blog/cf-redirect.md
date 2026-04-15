@@ -1,11 +1,12 @@
 ---
 title: 基于单域名 + CF SaaS 的 CF CDN 优选
 date: 2026-04-10 13:54:02
-updated: 2026-04-10 13:54:02
+updated: 2026-04-16 02:57:27
 categories: [博客更新]
 repo: SheepYhangCN/sheepyhangcn.github.io
 tags: 
  - Blog
+ - Cloudflare
 ---
 
 详细更多方式见[这篇文章](https://2x.nz/posts/cf-fastip/)
