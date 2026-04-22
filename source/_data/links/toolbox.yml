@@ -88,3 +88,8 @@
   cover:
   icon:
   description: 文件传输 端对端加密
+- title: PV 生成
+  url: https://pv.pixjam.cn/
+  cover:
+  icon:
+  description: 日式 PV 视效生成
