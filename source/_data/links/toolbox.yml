@@ -93,3 +93,13 @@
   cover:
   icon:
   description: 日式 PV 视效生成
+- title: OpenCC
+  url: https://opencc.js.org/converter
+  cover:
+  icon:
+  description: 中文字形地域用词转换
+- title: Perfect Pixel
+  url: https://theamusing.github.io/perfectPixel_webdemo/
+  cover:
+  icon:
+  description: 真像素化 AI 生成像素图
