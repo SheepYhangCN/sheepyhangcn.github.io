@@ -218,7 +218,7 @@ search:
 comments:
   service: giscus # beaudar, utterances, giscus, twikoo, waline, artalk
   comment_title: ""
-  lazyload: true # true / false
+  lazyload: false # true / false
   custom_css: # artalk,twikoo,... 可以为没有全局启用的评论加载自定义样式
   # beaudar
   # https://beaudar.lipk.org/
@@ -256,7 +256,6 @@ comments:
     data-input-position: top # top, bottom
     data-theme: https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/css/transparent_light.css
     data-lang: zh-CN
-    data-loading: lazy
     crossorigin: anonymous
 
   # Twikoo
