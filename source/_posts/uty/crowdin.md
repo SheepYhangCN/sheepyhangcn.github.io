@@ -139,7 +139,7 @@ using (StreamReader reader = new StreamReader(stringsPath))
 然后就对不上位置了
 然后还不止分句问题
 它还吞了不少翻译
-![imported](./resources/images/uty/crowdin/imported.png)
+{% image /resources/images/uty/crowdin/imported.png %}
 （为了避免剧透 所以调成糊的了 红色是未翻译 蓝色是已翻译 很明显参差不齐+有些句子分开了前后）
 
 然后 我就删了文件重新导入
@@ -149,13 +149,13 @@ using (StreamReader reader = new StreamReader(stringsPath))
 
 然后就在我们开始从文档那边搬译文过来补的时候
 似乎发现了什么弱智情况
-![小 石 蛙](./resources/images/uty/crowdin/frog_pebble.png)
+{% image /resources/images/uty/crowdin/frog_pebble.png %}
 对 译文乱了
-![小 石 弹](./resources/images/uty/crowdin/pebble_flint.png)
+{% image /resources/images/uty/crowdin/pebble_flint.png %}
 《小 石 弹》
-![饶 恕 糖](./resources/images/uty/crowdin/candy_spare.png)
+{% image /resources/images/uty/crowdin/candy_spare.png %}
 《饶 恕 糖》
-![柴 片](./resources/images/uty/crowdin/chisp_matches.png)
+{% image /resources/images/uty/crowdin/chisp_matches.png %}
 《柴 片》
 
 嗯 然后就是花了点时间找到所有乱了的译文 一个个改回去

@@ -67,9 +67,9 @@ Github那边不知道发什么巅
 
 然而我去测试了下
 上了CDN的速度甚至不如直连速度
-![Cloudflare](./resources/images/cloudflare/cloudflare.png)
+{% image /resources/images/cloudflare/cloudflare.png %}
 Cloudflare
-![直连](./resources/images/cloudflare/github.png)
+{% image /resources/images/cloudflare/github.png %}
 github.io直连
 
 那我费那么大劲弄CF干嘛
