@@ -27,7 +27,7 @@ hgpaktool.exe -U "<NMS 目录>/GAMEDATA/PCBANKS/NMSARC.audio.pak" "<NMS 目录>/
 ## 剔除不需要的档案
 打开输出目录，删除 `music` 资料夹
 打开 `audio/<操作系统>` 资料夹，删除除了 `<你使用的文字语言>` `<你想使用的配音语言>` `media`以外的所有资料夹
-我想替换简繁中为英配，所以保留了 `chinese(prc)` `chinese(taiwan)` `english(us)`，分别对应
+我想替换简繁中为英配，所以保留了 `chinese(prc)` `chinese(taiwan)` `english(us)`
 打开 `media` 资料夹，删除 `<你使用的文字语言>` `<你想使用的配音语言>` 以外的所有资料夹，同上
 
 ## 替换资源
