@@ -1,7 +1,7 @@
 ---
 title: 网站收藏夹
 date: 1
-updated: 2026-05-25 10:23:10
+updated: 2026-05-28 20:41:20
 menu_id: notebooks
 leftbar: notebooks, tagtree
 rightbar: ghuser, ghrepo, toc
@@ -11,7 +11,7 @@ rightbar: ghuser, ghrepo, toc
 {% sites toolbox %}
 {% quot Minecraft 相关 icon:hashtag el:h6 %}
 {% sites mctools %}
-{% quot 文档 & 手册 icon:hashtag el:h5 %}
+{% quot 文档/参考/手册 icon:hashtag el:h5 %}
 {% sites docs %}
 {% quot Minecraft 相关 icon:hashtag el:h6 %}
 {% sites mcdocs %}
