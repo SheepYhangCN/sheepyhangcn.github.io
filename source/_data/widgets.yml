@@ -29,8 +29,6 @@ notebooks:
   layout: linklist
   columns: 1
   items:
-    - title: OKR
-      url: /okr/
     - title: 网站收藏夹
       url: /links/
     - title: <b>所有笔记本</b>
