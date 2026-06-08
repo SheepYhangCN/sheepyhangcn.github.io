@@ -1,6 +1,7 @@
 ---
 title: 修复游玩服务器时遇到的 Too Many Registered Channels
 date: 2026-06-08 15:04:30
+updated: 2025-06-08 15:17:54
 repo: SheepYhangCN/FixTooManyRegisteredChannels
 tags: 
  - Minecraft
@@ -22,3 +23,13 @@ tags:
 
 [Modrinth](https://modrinth.com/mod/fix-too-many-registered-channels)
 [MCMOD](https://www.mcmod.cn/class/27601.html)
+
+## 技术细节
+主要就是两个 Mixin
+一个是 Inject `registerChannels` 与 `registerChannel`
+查看通道的 namespace，不是 `minecraft:` 就阻止
+删掉 `EntrySet`，返回 false
+
+另一个是 Inject `registerGlobalReceiver`
+这个是 Fabric API 的注册
+只要在多人游戏下就阻挡，返回 false
