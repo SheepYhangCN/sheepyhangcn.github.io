@@ -1,0 +1,24 @@
+---
+title: 修复游玩服务器时遇到的 Too Many Registered Channels
+date: 2026-06-08 15:04:30
+repo: SheepYhangCN/FixTooManyRegisteredChannels
+tags: 
+ - Minecraft
+---
+
+我有一个专门的原版优化 Modpack，时不时跟着原版更新
+目前有两百多个 Mod
+然而这些 Mod 在加入多人游戏时都会注册自己的通道用于传输数据
+而某些服务器核心会限制玩家注册的通道数量
+就会报出 `Too Many Registered Channels` 错误
+{% image https://cdn.modrinth.com/data/X1YbXgv4/images/cebd62adbd569e4d542ab70ffee3a7e8b9f7698f.png  ratio:829/400 %}
+
+技术上来说，这个问题的解决不算麻烦
+只要在游玩多人游戏时禁止所有 Mod 的注册通道即可，毕竟本身也是 Vanilla-Compatiable 的 Modpack
+
+然而我是一点 Java 也不会
+所以只能在 LLM 的帮助下做出了这个 Mod
+以 YACL 与 Mod Menu 作为前置，可以从 Mod Menu 打开配置选单，随时开关
+
+[Modrinth](https://modrinth.com/mod/fix-too-many-registered-channels)
+[MCMOD](https://www.mcmod.cn/class/27601.html)
