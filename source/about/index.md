@@ -1,32 +1,46 @@
 ﻿---
 title: 关于
 date: 1
-updated: 2026-04-12 00:47:16
+updated: 2026-06-14 01:04:50
 menu_id: about
 ---
+# 关于我
+**憨憨羊の宇航鸽鸽** a.k.a. **SheepYhangCN**
+直接叫我宇航即可
 
-## 谁
-憨憨羊の宇航鸽鸽，直接叫我宇航即可
-外网常用名 SheepYhangCN
-
-## 做什么的
 Minecraft 指令师
 同人/独立游戏制作者
-（曾经使用 GameMaker，现在使用 Godot 4 C#）
-憨憨羊工作室 室长
+视频创作者
 [UNDERTALE 中文本地化社区](https://utclc.top) 建立者
-计算机网络专业学生
+在校学生，计算机网络专业
 爱好性本地化译者（英文/简中/繁中）
 
 在学习日语 目前学习到あいうえお（x
 有时候会搬点外网视频 想的话会顺便翻译
 
-`English` `中文（简体/繁體）` `汉语（普通话/粵語）`
-`C#` `Python` `GameMaker` `Godot` `HTML & CSS` `Markdown`
-学习中：`日本語` `C++`
+语言
+* 书面
+  * 英文
+  * 中文
+    * 简体
+    * 繁体
+* 口语
+  * 英语
+  * 汉语
+    * 普通话/官话
+    * 粤语
+* 编程
+  * C#
+  * Python
+  * GDScript
+  * GameMaker Language
+  * HTML & CSS
+  * Markdown
+  * mcfunction (?)
 
-<details>
-<summary>互联网历程</summary>
+正在学习 `日本語` 与 `C++`
+
+{% folding 互联网历程 %}
 
 2017年至今 - 录制游戏实况，2022年开始往后几乎没了，看心情做
 2020年至2021年 - 制作 Minecraft 地图、资源包、指令包
@@ -36,11 +50,9 @@ Minecraft 指令师
 2023年 - 做术力口翻调 后续太久没做忘干净了所以就没做了
 2023年至今 - 制作 MMD，技术力不高，基本都是套动作
 2023年至今 - 做东方同人游戏，未公开
-</details>
-<br>
-<details>
-<summary>关于我个人</summary>
-
+{% endfolding %}
+{% folding 关于我个人 %}
+诞辰：桃月廿八
 MBTI：INTP-T
 
 特立独行 不爱随波逐流 不爱公开站队
@@ -79,14 +91,12 @@ MBTI：INTP-T
 最喜欢的音乐：
 王七七《人生态度》
 （被下架的旧版，新版的词不喜欢）
-</details>
+{% endfolding %}
 
 ## 成分
 可能不全 想到再补
-
-<details>
-<summary>看过/在追且一直都持续有在主动关注消息与观看/创作二创等的番/动画/漫画/小说等</summary>
-
+{% folders %}
+<!-- folder 看过/在追且一直都持续有在主动关注消息与观看/创作二创等的番/动画/漫画/小说等 -->
 三体
 Rick And Morty
 喜羊羊与灰太狼
@@ -104,10 +114,8 @@ MyGO / Ave Mujica
 Re：从零开始的异世界生活
 魔女之旅
 邪神与厨二病少女
-小林家的龙女仆</details>
-<details>
-<summary>游戏 比较常玩的非单机 和已通关且一直都持续有在观看/创作二创等的单机游戏</summary>
-
+小林家的龙女仆
+<!-- folder 游戏&nbsp;比较常玩的非单机&nbsp;和已通关且一直都持续有在观看/创作二创等的单机游戏 -->
 Minecraft
 Undertale
 Deltarune
@@ -142,10 +150,8 @@ VRChat
 Maimai DX
 蔚蓝档案
 鸣潮
-魔法少女的魔女审判</details>
-<details>
-<summary>除以上之外的成分 <del>还有亚文化成分呢</del></summary>
-
+魔法少女的魔女审判
+<!-- folder 除以上之外的成分&nbsp;<del>还有亚文化成分呢</del> -->
 Vocaloid
 东方Project
 Cookie☆
@@ -153,7 +159,7 @@ Cookie☆
 哈基米
 Neuro-sama
 Lost media
-</details>
+{% endfolders %}
 
 不玩任何手游（音游除外）
 不玩米哈游 不玩腾讯 不玩网易 不玩任何国服
@@ -181,7 +187,7 @@ Dead Watch Demo - 繁体中文
 还有别的，想到再补
 
 ## 社交平台
-[lit.link](https://lit.link/sheepyuhang)
+{% button lit.link https://lit.link/sheepyuhang %}
 
 ## 联系我
 按照优先度排列，没事尽量不要找我扩列
@@ -197,3 +203,21 @@ Don\'t know, don\'t mind, don\'t care.
 ### 座右铭
 车到山前必有路，船到桥头自然直。
 活在当下，不念过去，不望未来。
+
+# 支援 / 赞助
+若本人在任何方面有帮助到您，欢迎您在自愿前提下略施慷慨提供支援
+在此感谢您的支援，您的赞助将帮助我继续创作
+{% tabs %}
+
+<!-- tab 周期订阅 -->
+<div align="center">
+{% button 哔哩哔哩充电 https://space.bilibili.com/252906762 %} {% button 爱发电 https://afdian.com/a/SheepYhangCN %} {% button Patreon https://patreon.com/SheepYhangCN %}
+</div>
+
+<!-- tab 微信支付 -->
+{% image /resources/images/sponsor/wechat.png width:400px %}
+
+<!-- tab 支付宝 -->
+{% image /resources/images/sponsor/alipay.jpg width:400px %}
+
+{% endtabs %}
