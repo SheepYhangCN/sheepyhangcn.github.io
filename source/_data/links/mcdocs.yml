@@ -1,5 +1,5 @@
 - title: 原版模组入门教程
-  url: https://ruhuasiyu.github.io/VanillaModTutorial/
+  url: https://zhangshenxing.github.io/VanillaModTutorial/
   cover:
   icon:
   description:
@@ -13,8 +13,8 @@
   cover:
   icon:
   description: Forge 模组开发指南
-- title: MineGraph 文档 
-  url: https://mgcd.hypercol.com/home.html
+- title: MineGraph 文档
+  url: https://docs.minegraph.cn/home.html
   cover:
   icon:
   description: 图形学社区文档

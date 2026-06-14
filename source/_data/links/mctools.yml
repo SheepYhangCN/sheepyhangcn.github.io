@@ -38,3 +38,58 @@
   cover:
   icon:
   description: AI 生成
+- title: Minecraft Art
+  url: https://mcpixelart.com/
+  cover:
+  icon:
+  description: 像素画/模型/红石音乐
+- title: Minecraft Head
+  url: https://minecraft-heads.com/
+  cover:
+  icon:
+  description: 头颅生成
+- title: ArmorTrims
+  url: https://www.armortrims.com/
+  cover:
+  icon:
+  description: 盔甲纹饰预览
+- title: MineGraph
+  url: https://www.minegraph.cn/
+  cover:
+  icon:
+  description: 着色器包/资源包
+- title: 投影工坊
+  url: https://www.mcimg.com/
+  cover:
+  icon:
+  description: 投影
+- title: Vault
+  url: https://ccvaults.com/
+  cover:
+  icon:
+  description: 下载物品/方块纹理
+- title: Lodestone - Minecraft Sounds
+  url: https://lode.gg/tools/minecraft-sounds
+  cover:
+  icon:
+  description: 下载音频
+- title: MCAPPX 版本库
+  url: https://www.mcappx.com/
+  cover:
+  icon:
+  description: 基岩版版本归档
+- title: MCNav
+  url: https://www.mcnav.net/
+  cover:
+  icon:
+  description: Minecraft 导航
+- title: MCCAG
+  url: https://mccag.cn/
+  cover:
+  icon:
+  description: 生成头像
+- title: MCGIF
+  url: https://mcgif.cn/
+  cover:
+  icon:
+  description: 生成动图
