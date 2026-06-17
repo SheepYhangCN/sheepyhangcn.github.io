@@ -73,6 +73,16 @@
   cover:
   icon:
   description: 下载音频
+- title: CFPA Modpack
+  url: https://modpack.cfpa.team/
+  cover:
+  icon:
+  description: Modpack 汉化
+- title: VM 汉化组
+  url: https://vmct-cn.top/
+  cover:
+  icon:
+  description: Modpack & 地图汉化
 - title: MCAPPX 版本库
   url: https://www.mcappx.com/
   cover:
