@@ -57,7 +57,7 @@ UABEA 多文件加载速度是真的慢
 ```
 然后筛选 MonoBehaviour 类型
 用 UABEA 全选并全部 Dump 为 UABEA Json 文件即可
-{% image /assets/images/dttvl/dttvl_try/UABEA.png %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/dttvl/dttvl_try/UABEA.png  ratio:1102/532 %}
 目前发现了会出现的三种类型的文本
 ```m_Text``` 是单个文本
 ```lines```与```phrases``` 是对话组

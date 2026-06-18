@@ -215,9 +215,9 @@ Don\'t know, don\'t mind, don\'t care.
 </div>
 
 <!-- tab 微信支付 -->
-{% image /assets/images/sponsor/wechat.png width:400px %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/sponsor/wechat.png width:400px ratio:1325/1806 %}
 
 <!-- tab 支付宝 -->
-{% image /assets/images/sponsor/alipay.jpg width:400px %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/sponsor/alipay.jpg width:400px ratio:1170/1755 %}
 
 {% endtabs %}

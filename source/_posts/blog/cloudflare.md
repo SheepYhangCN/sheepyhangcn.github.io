@@ -67,9 +67,9 @@ Github那边不知道发什么巅
 
 然而我去测试了下
 上了CDN的速度甚至不如直连速度
-{% image /assets/images/cloudflare/cloudflare.png %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/cloudflare/cloudflare.png  ratio:636/565 %}
 Cloudflare
-{% image /assets/images/cloudflare/github.png %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/cloudflare/github.png  ratio:635/569 %}
 github.io直连
 
 那我费那么大劲弄CF干嘛

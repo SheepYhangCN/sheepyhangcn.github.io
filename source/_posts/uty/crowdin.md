@@ -139,7 +139,7 @@ using (StreamReader reader = new StreamReader(stringsPath))
 然后就对不上位置了
 然后还不止分句问题
 它还吞了不少翻译
-{% image /assets/images/uty/crowdin/imported.png %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/uty/crowdin/imported.png  ratio:407/557 %}
 （为了避免剧透 所以调成糊的了 红色是未翻译 蓝色是已翻译 很明显参差不齐+有些句子分开了前后）
 
 然后 我就删了文件重新导入
@@ -149,13 +149,13 @@ using (StreamReader reader = new StreamReader(stringsPath))
 
 然后就在我们开始从文档那边搬译文过来补的时候
 似乎发现了什么弱智情况
-{% image /assets/images/uty/crowdin/frog_pebble.png %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/uty/crowdin/frog_pebble.png  ratio:279/263 %}
 对 译文乱了
-{% image /assets/images/uty/crowdin/pebble_flint.png %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/uty/crowdin/pebble_flint.png  ratio:227/223 %}
 《小 石 弹》
-{% image /assets/images/uty/crowdin/candy_spare.png %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/uty/crowdin/candy_spare.png  ratio:194/200 %}
 《饶 恕 糖》
-{% image /assets/images/uty/crowdin/chisp_matches.png %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/uty/crowdin/chisp_matches.png  ratio:165/213 %}
 《柴 片》
 
 嗯 然后就是花了点时间找到所有乱了的译文 一个个改回去

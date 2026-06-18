@@ -21,7 +21,7 @@ so，说是多个打字机，其实也不尽然
 没错，发现问题了吗
 一旦子打字机的字符数量超过主打字机
 那么子打字机超出去的部分就不会被打出来
-{% image /assets/images/uty/dialogue/cut.png %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/uty/dialogue/cut.png  ratio:640/478 %}
 
 ## 解决？
 uty这个打字机真的看得我小脑肿大 大脑萎缩 脑干打结
@@ -29,39 +29,39 @@ uty这个打字机真的看得我小脑肿大 大脑萎缩 脑干打结
 然后就因为分数组这个问题 导致我不能轻易地把字符数量改为max函数取打字机的最大值
 
 最后是非常弱智的解决方法：直接把主打字机的打字进度转换为百分比给颜色打字机用
-{% image /assets/images/uty/dialogue/resolve.png %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/uty/dialogue/resolve.png  ratio:735/33 %}
 当然这样的后果是非常大概率会导致打字机速度不统一
 但是既然之前都不同步了 就不管了
-{% image /assets/images/uty/dialogue/resolved.png %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/uty/dialogue/resolved.png  ratio:640/478 %}
 嗯 就这样罢
 
 ## 解决
 然后 嗯 bug了
 疑似是utmt反编译时吞了码 然后编译少了码导致的
 首先是choice的灵魂持续出现在底下
-{% image /assets/images/uty/dialogue/soul.png %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/uty/dialogue/soul.png  ratio:148/39 %}
 
 然后还有choice出现过后choice的选项不会消失 一直显示
-{% image /assets/images/uty/dialogue/choice.png %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/uty/dialogue/choice.png  ratio:657/519 %}
 
 最后解决是 在data里找到了一个空的if
-{% image /assets/images/uty/dialogue/if.png %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/uty/dialogue/if.png  ratio:344/63 %}
 而且后面正好跟着的就是choice相关的代码
 所以就补了个else上去
-{% image /assets/images/uty/dialogue/else.png %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/uty/dialogue/else.png  ratio:363/92 %}
 
 然后就 真修好了 嗯
 
 ## 题外话
 之前在翻data的时候发现了些震撼人心的东西
-{% image /assets/images/uty/dialogue/r1.png %}{% image /assets/images/uty/dialogue/r2.png %}{% image /assets/images/uty/dialogue/r3.png %}
-{% image /assets/images/uty/dialogue/rr.png %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/uty/dialogue/r1.png  ratio:1069/679 %}{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/uty/dialogue/r2.png  ratio:1123/838 %}{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/uty/dialogue/r3.png  ratio:1024/825 %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/uty/dialogue/rr.png  ratio:293/152 %}
 非常弱智的随机对话系统
 Powered with ```else if```™
 他们甚至不肯用```switch```
 
 但是
-{% image /assets/images/uty/dialogue/rrrr.png %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/uty/dialogue/rrrr.png  ratio:1062/366 %}
 你这不是会用```asset_get_index```吗
 那你前面怎么不用
 只能说跨越7年的项目 就这个b样子了

@@ -38,7 +38,7 @@ intro有了结果 obj_intro
 然后我决定找找战斗打字机
 当我搜出dialogue_battle的时候
 重量级出现了
-{% image /assets/images/uty/uty/dialogue_battle.png %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/uty/uty/dialogue_battle.png  ratio:317/699 %}
 是的 每一处打字机都是一个物体
 然后我又搜索了dialogue
 更加印证了我的想法
@@ -54,39 +54,39 @@ intro有了结果 obj_intro
 ## 开整
 首先是开头的故事intro
 我找到了文本 翻译好了 一切正常
-{% image /assets/images/uty/uty/intro.png %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/uty/uty/intro.png  ratio:642/512 %}
 纸鸢提供了那张寻人启事的图
 然后就是logo下方的\[PRESS Z OR ENTER\]
 很难绷的就是 我翻译好后发现 这个文本 是手动设置的偏移
 它没有使用GM自带的居中对齐绘制
 所以我的决定是 直接修改draw函数
 byd谁闲着给你一点一点调位置
-{% image /assets/images/uty/uty/z_enter_original.png %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/uty/uty/z_enter_original.png  ratio:737/44 %}
 ↓改完之后↓
-{% image /assets/images/uty/uty/z_enter_improved.png %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/uty/uty/z_enter_improved.png  ratio:742/50 %}
 
 然后就是menu和instruction
 翻译了menu后 我发现找不到instruction的文本在哪
 此时我还调侃说不会是个贴图吧
 然后我还就真找到了
-{% image /assets/images/uty/uty/instruction.png %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/uty/uty/instruction.png  ratio:1153/689 %}
 不是 你没病吧 你和RickyG学的是吧
 对此 我的选择是
 直接给你字删了然后手动代码绘制一份
-{% image /assets/images/uty/uty/menu.png %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/uty/uty/menu.png  ratio:642/512 %}
 
 ## Overworld
 然后就是ow的测试
 首先是测试了有无空格的差别
-{% image /assets/images/uty/uty/no_space.png %}
-{% image /assets/images/uty/uty/with_space.png %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/uty/uty/no_space.png  ratio:642/512 %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/uty/uty/with_space.png  ratio:642/512 %}
 显而易见了 所以就要求必须打空格
 
 接着就是文本的上色
 前面说过 为了美观 把空格的数量改了
 然后uty的上色 居然是一种颜色用一个打字机
 就是说 你加一个颜色 就要新开一个打字机 然后在上色词语的前面加与主打字机一样字符数量的空格
-{% image /assets/images/uty/uty/color.png %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/uty/uty/color.png  ratio:642/512 %}
 ↑比如这里一共是三个打字机↑
 而且这个东西的打字速度还是一样的
 就是说有中文的时候 上色会跟不上或者是太快
@@ -97,7 +97,7 @@ byd谁闲着给你一点一点调位置
 没啥问题 接着就是战斗框打字机
 前面说过 战斗打字机得改
 然后这里有一张打字机没改时的珍贵录像（
-{% image /assets/images/uty/uty/battle.png %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/uty/uty/battle.png  ratio:642/512 %}
 anyways，把打字机改好之后和ow一样的处理方法即可
 
 ## 待续

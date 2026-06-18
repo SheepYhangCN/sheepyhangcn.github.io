@@ -14,26 +14,26 @@ tags:
 最近因为实在太忙 所以没有出什么力
 久违地打开待解决清单，首先就是这个
 ```非屠杀线使用回血物品旁白字叠在一起```的问题
-{% image /assets/images/uty/item_use/cover.png %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/uty/item_use/cover.png  ratio:640/480 %}
 
 # 寻踪
 搜索文本找到函数```scr_item_use_text_yellow```
 其中定义了变量```con_keep_previous```
 当这个变量为```true```时在恢复HP文本前面添加换行
 以及变量```con_message_number```记录对话数量
-{% image /assets/images/uty/item_use/code.png %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/uty/item_use/code.png  ratio:660/189 %}
 
 全局搜索```scr_item_use_text_yellow```
 找到物体```obj_dialogue_battle_action_selected_item```
 Step事件 在文本打完时检测是否符合要求 并自动触发计时器0
-{% image /assets/images/uty/item_use/code_use.png %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/uty/item_use/code_use.png  ratio:840/156 %}
 
 计时器0会自动进行回血 并进入下一句文本（也就是显示恢复HP）
-{% image /assets/images/uty/item_use/healing.png %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/uty/item_use/healing.png  ratio:497/573 %}
 
 Draw事件 当文本为最后一句 且```con_keep_previous```为true时
 另外执行一个函数```scr_draw_text_effect_twitchy_textbox_battle_item_use```
-{% image /assets/images/uty/item_use/draw.png %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/uty/item_use/draw.png  ratio:811/84 %}
 
 这个函数会保留最后一句文本 并直接把恢复HP的文本叠在一起
 是的没错 无脑叠在一起 而不是放在文本最后

@@ -15,7 +15,7 @@ byd这还能有3的
 ## bytearray
 首先是解出来的 IL 里缺失了一些文本
 搜了一下发现被弄成 bytearray 了
-{% image /assets/images/dttvl/dttvl_try3/before.png %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/dttvl/dttvl_try3/before.png  ratio:1211/747 %}
 这些文本的共同点就是都含有 ```\\b```
 咱也不知道为啥要有这东西 意义不明
 但是有了这玩意之后 ildasm 就会解成 bytearray
@@ -28,7 +28,7 @@ byd这还能有3的
 所以我决定进行一个科技改变生活
 让 DeepSeek 给我写一个
 嗯，然后就这样，[脚本](https://github.com/UTCLC/ILBytearraysConvert/blob/master/ILBytearraysConvert.py)
-{% image /assets/images/dttvl/dttvl_try3/after.png %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/dttvl/dttvl_try3/after.png  ratio:1235/647 %}
 
 ## 更新翻译文件
 之前说过，翻译文件的 json 是使用行数作为 key 的
