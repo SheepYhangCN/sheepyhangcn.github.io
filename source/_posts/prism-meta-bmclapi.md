@@ -1,6 +1,7 @@
 ﻿---
 title: 让 Prism Launcher 使用 BMCLAPI
 date: 2026-05-22 22:26:26
+updated: 2026-06-20 02:23:36
 repo: SheepYhangCN/prism-meta-bmclapi
 tags: 
  - Minecraft
@@ -21,6 +22,15 @@ tags:
 剩下的资源，则全部都在 Metadata 中，也就是默认情况下的 `https://meta.prismlauncher.org/v1/`
 这个源本质上是一个 Github Pages 静态站点，其中存储了所有资源的源地址
 所以，最简单的方法，就是直接设置一个反代，从 Prism Launcher 官方源获取内容后，替换所有源为 BMCLAPI 域名
+
+### 散列值校验
+默认情况下，这个 Meta 源的索引里包含了版本 Json 的散列值，供 Prism Launcher 下载时校验
+Worker 替换后散列值必然发生变化，所以必须进行处理
+解决方法是获取到 Json 后解析，然后删除掉 `sha256` 与 `sha1` 字段
+然后重新转换为字符串返回
+
+### 刷新缓存
+删除 Prism Launcher 目录下的 `meta` 文件夹以刷新缓存
 
 ## Cloudflare Workers
 [worker.js](https://github.com/SheepYhangCN/prism-meta-bmclapi/blob/main/worker.js)
