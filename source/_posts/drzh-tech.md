@@ -1,6 +1,7 @@
 ---
 title: DELTARUNE 汉化技术解析
 date: 2026-06-18 22:44:00
+updated: 2026-06-22 05:35:58
 repo: gm3dr/DeltaruneChinese
 tags: 
  - 汉化
@@ -530,13 +531,13 @@ Loader 比较简单，只是提供了日志分级与加载 data 的衔接
 {% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/drzh-tech/p4/23.png  ratio:914/308 %}
 其会先检查这些默认路径
 ```
-Windows: C:/Program Files (x86)/Steam/steamapps/common/DELTARUNE*(demo)*
-macOS: ~/Library/Application Support/Steam/steamapps/common/DELTARUNE*(demo)*
-Linux: ~/.local/share/Steam/steamapps/common/DELTARUNE*(demo)*
+Windows: C:/Program Files (x86)/Steam/steamapps/common/DELTARUNE(demo?)
+macOS: ~/Library/Application Support/Steam/steamapps/common/DELTARUNE(demo?)
+Linux: ~/.local/share/Steam/steamapps/common/DELTARUNE(demo?)
 ```
 如果搜不到，且是 Windows，那么就会读取注册表
 从 `HKEY_CURRENT_USER\Software\Valve\Steam` 底下的 `SteamPath` 拿到 Steam 安装目录
-接着从 Steam 目录下 `steamapps` 拿到 `libraryfolders.vdf`，使用 Gameloop.Vdf 来解析
+接着从 Steam 目录下 `steamapps` 拿到 `libraryfolders.vdf`，使用 [Gameloop.Vdf](https://github.com/shravan2x/Gameloop.Vdf) 来解析
 {% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/drzh-tech/p4/25.png width:600px ratio:1521/181 %}
 {% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/drzh-tech/p4/24.png width:600px ratio:1984/861 %}
 {% note 不是只有&nbsp;Windows&nbsp;会读&nbsp;libraryfolders.vdf 是只有 Windows 会透过注册表获取 Steam 安装目录<br>其它系统仍会使用默认目录来获取 `libraryfolders.vdf` %}
