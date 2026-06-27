@@ -98,6 +98,11 @@
   cover:
   icon:
   description: 中文字形地域用词转换
+- title: MS Store Generation
+  url: https://store.rg-adguard.net/
+  cover:
+  icon:
+  description: 微软商店应用链接获取
 - title: Perfect Pixel
   url: https://theamusing.github.io/perfectPixel_webdemo/
   cover:
