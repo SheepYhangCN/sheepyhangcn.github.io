@@ -1,7 +1,7 @@
 ---
 title: 网站收藏夹
 date: 1
-updated: 2026-05-28 20:41:20
+updated: 2026-06-29 17:16:10
 menu_id: notebooks
 leftbar: notebooks, tagtree
 rightbar: ghuser, ghrepo, toc
@@ -19,6 +19,8 @@ rightbar: ghuser, ghrepo, toc
 {% sites assets %}
 {% quot 镜像站 icon:hashtag el:h5 %}
 {% sites mirrors %}
+{% quot 字典词典 & 参考规范 icon:hashtag el:h5 %}
+{% sites dicts %}
 {% quot 杂项 icon:hashtag el:h5 %}
 {% sites misc %}
 {% quot 在线小游戏 icon:hashtag el:h6 %}

@@ -1,0 +1,45 @@
+- title: 汉语字典词典在线版
+  url: https://dictkit.github.io/
+  cover:
+  icon:
+  description:
+- title: W3C 中文排版需求
+  url: https://www.w3.org/TR/clreq
+  cover:
+  icon:
+  description:
+- title: RFC 5646
+  url: https://www.rfc-editor.org/rfc/rfc5646.html
+  cover:
+  icon:
+  description: 识别语言标签
+- title: IANA
+  url: https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
+  cover:
+  icon:
+  description: 语言子标签注册中心
+- title: GB/T 17693
+  url: https://openstd.samr.gov.cn/bzgk//std/std_list?p.p1=0&p.p2=17693
+  cover:
+  icon:
+  description: 外语地名汉字译写导则
+- title: GB/T 15834-2011
+  url: https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=22EA6D162E4110E752259661E1A0D0A8
+  cover:
+  icon:
+  description: 标点符号用法
+- title: 重訂標點符號手冊
+  url: https://language.moe.gov.tw/001/Upload/FILES/SITE_CONTENT/M0001/HAU/haushou.htm
+  cover:
+  icon:
+  description:
+- title: 中華語文知識庫
+  url: https://www.chinese-linguipedia.org/
+  cover:
+  icon:
+  description:
+- title: 國語詞典簡編本
+  url: https://dict.concised.moe.edu.tw/
+  cover:
+  icon:
+  description:
