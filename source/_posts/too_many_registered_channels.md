@@ -1,7 +1,7 @@
 ---
 title: 修复游玩服务器时遇到的 Too Many Registered Channels
 date: 2026-06-08 15:04:30
-updated: 2025-06-08 15:17:54
+updated: 2025-06-29 17:39:29
 repo: SheepYhangCN/FixTooManyRegisteredChannels
 tags: 
  - Minecraft
@@ -21,8 +21,8 @@ tags:
 所以只能在 LLM 的帮助下做出了这个 Mod
 以 YACL 与 Mod Menu 作为前置，可以从 Mod Menu 打开配置选单，随时开关
 
-[Modrinth](https://modrinth.com/mod/fix-too-many-registered-channels)
-[MCMOD](https://www.mcmod.cn/class/27601.html)
+{% button Modrinth https://modrinth.com/mod/fix-too-many-registered-channels %}
+{% button MCMOD https://www.mcmod.cn/class/27601.html %}
 
 ## 技术细节
 主要就是两个 Mixin
