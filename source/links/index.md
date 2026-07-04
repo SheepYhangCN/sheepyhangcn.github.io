@@ -1,7 +1,7 @@
 ---
 title: 网站收藏夹
 date: 1
-updated: 2026-06-29 17:32:50
+updated: 2026-07-05 01:29:26
 menu_id: notebooks
 leftbar: notebooks, tagtree
 rightbar: ghuser, ghrepo, toc
@@ -28,6 +28,7 @@ rightbar: ghuser, ghrepo, toc
 {% quot 文章 icon:hashtag el:h5 %}
 [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
 [别像弱智一样提问](https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways/blob/master/README.md)
+[提问指南](https://lug.ustc.edu.cn/wiki/doc/howtoask/)
 [❓ 为什么别人总让我看 FAQ 或者干脆没人回复](https://www.yuque.com/mhmzh/faq/htaqtsw)
 
 [如何让一个文件在Git提交中永远消失？如何丢掉其中一条提交并保持逻辑完整？](https://2x.nz/posts/del-git-commit/)
