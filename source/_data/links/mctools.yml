@@ -3,6 +3,21 @@
   cover:
   icon:
   description:
+- title: 计算器/互动式工具
+  url: https://zh.minecraft.wiki/w/%E8%AE%A1%E7%AE%97%E5%99%A8
+  cover:
+  icon:
+  description: Minecraft Wiki
+- title: Minecraft Tools
+  url: https://www.minecraftmaps.com/tools
+  cover:
+  icon:
+  description: Minecraft Maps
+- title: Minecraft Tools
+  url: https://minecraft.tools/en/
+  cover:
+  icon:
+  description:
 - title: NameMC
   url: https://zh-cn.namemc.com/
   cover:
