@@ -1,7 +1,7 @@
 ---
 title: 搭建 AstrBot 并链接到 QQ Bot
 date: 2026-07-14 03:03:11
-updated: 2026-07-14 03:16:28
+updated: 2026-07-14 04:20:28
 categories: [研究记录]
 ---
 ## 背景故事
@@ -119,5 +119,28 @@ QQ Bot 是可以用流式输出的
 然后复制 API Key 填入即可
 
 ## 插件
-目前暂时还没装什么插件
-等后面研究透了再补这部分啥的
+目前是研究了俩插件
+俩插件都遇到坑了
+
+### B 站视频总结
+一个是 [astrbot_plugin_biliVideo](https://github.com/storyAura/astrbot_plugin_biliVideo)
+用于哔哩哔哩视频总结
+扫码登录和总结都没毛病
+生图有个很抽象的问题就是 Markdown 语法会失效
+改成纯文字就没问题
+
+配置中有个生成合并转发聊天记录的功能
+实测开了这个就发不出来了
+所以目前就是一大串文字这么用
+
+分 P 视频也用不了，只能识别 P1
+不过这个可能是 B 站 API 问题就是了
+
+### 真寻日报
+另一个是 [astrbot_plugin_zhenxunribao](https://github.com/luminacry/astrbot_plugin_zhenxunribao)
+这个具体来说是我的服务器问题
+2 GiB 内存的机器，在 TeamSpeak + AstrBot 的情况下就已经吃掉了一半
+而这个插件需要使用 Playwright 运行浏览器，还是我们最爱的 Chromium
+所以就不负众望的卡死了
+
+打算是找点别的日报插件但是目前还没决定下来
