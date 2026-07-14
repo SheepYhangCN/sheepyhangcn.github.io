@@ -1,7 +1,7 @@
 ---
 title: 搭建 AstrBot 并链接到 QQ Bot
 date: 2026-07-14 03:03:11
-updated: 2026-07-14 16:34:37
+updated: 2026-07-14 18:03:33
 categories: [研究记录]
 repo: AstrBotDevs/AstrBot
 ---
@@ -146,6 +146,16 @@ QQ Bot 是可以用流式输出的
 
 所以目前实际用的是 [astrbot_plugin_dailyhub](https://github.com/AMag1c/astrbot_plugin_dailyhub)
 注意要把配置里 AI 日报的 RSS 地址改成 `https://daily.juya.uk/rss.xml`
+
 还有个悲报是众所周知不久前 Bangumi 被墙了，所以这个插件的「今日番剧」是拿不到的
-而且这个插件的配置没法改 Bangumi 的镜像
-我后面看看能不能发个 PR 啥的
+而且这个插件的配置*截至目前*没法改 Bangumi 的镜像
+所以这里是一个[添加配置项的 PR](https://github.com/AMag1c/astrbot_plugin_dailyhub/pull/2)
+
+可以直接 fork 修改后的仓库
+然后修改 AstrBot 目录下 `data/plugins/astrbot_plugin_dailyhub/metadata.yaml` 的 `repo`
+然后去 WebUI 更换插件源到 Github，再选重新安装即可
+这会保留原有配置
+当然，如果 PR 合并了之后那就不用搞了（
+
+我目前用的 Bangumi API 镜像是自己部署的
+使用[这篇文章](https://catcat.blog/2026/05/bangumi-reverse-proxy)的 Cloudflare Worker 方案
