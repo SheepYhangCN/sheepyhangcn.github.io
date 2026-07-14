@@ -1,8 +1,9 @@
 ---
 title: 搭建 AstrBot 并链接到 QQ Bot
 date: 2026-07-14 03:03:11
-updated: 2026-07-14 04:20:28
+updated: 2026-07-14 16:34:37
 categories: [研究记录]
+repo: AstrBotDevs/AstrBot
 ---
 ## 背景故事
 我于 2024 年在阿里云上购置了一台 2 核 2 GiB 内存
@@ -136,11 +137,15 @@ QQ Bot 是可以用流式输出的
 分 P 视频也用不了，只能识别 P1
 不过这个可能是 B 站 API 问题就是了
 
-### 真寻日报
+### 日报
 另一个是 [astrbot_plugin_zhenxunribao](https://github.com/luminacry/astrbot_plugin_zhenxunribao)
 这个具体来说是我的服务器问题
 2 GiB 内存的机器，在 TeamSpeak + AstrBot 的情况下就已经吃掉了一半
 而这个插件需要使用 Playwright 运行浏览器，还是我们最爱的 Chromium
 所以就不负众望的卡死了
 
-打算是找点别的日报插件但是目前还没决定下来
+所以目前实际用的是 [astrbot_plugin_dailyhub](https://github.com/AMag1c/astrbot_plugin_dailyhub)
+注意要把配置里 AI 日报的 RSS 地址改成 `https://daily.juya.uk/rss.xml`
+还有个悲报是众所周知不久前 Bangumi 被墙了，所以这个插件的「今日番剧」是拿不到的
+而且这个插件的配置没法改 Bangumi 的镜像
+我后面看看能不能发个 PR 啥的
