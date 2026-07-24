@@ -1,7 +1,7 @@
 ---
 title: 网站收藏夹
 date: 1
-updated: 2026-07-05 01:29:26
+updated: 2026-07-24 19:22:16
 menu_id: notebooks
 leftbar: notebooks, tagtree
 rightbar: ghuser, ghrepo, toc
@@ -30,6 +30,7 @@ rightbar: ghuser, ghrepo, toc
 [别像弱智一样提问](https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways/blob/master/README.md)
 [提问指南](https://lug.ustc.edu.cn/wiki/doc/howtoask/)
 [❓ 为什么别人总让我看 FAQ 或者干脆没人回复](https://www.yuque.com/mhmzh/faq/htaqtsw)
+[显示文件扩展名](https://blog.gucats.com/posts/fc28aee6.html)
 
 [如何让一个文件在Git提交中永远消失？如何丢掉其中一条提交并保持逻辑完整？](https://2x.nz/posts/del-git-commit/)
 [Github学生认证 + GitHub Education福利大全](https://2x.nz/posts/github-edu/)
@@ -41,6 +42,7 @@ rightbar: ghuser, ghrepo, toc
 [教程:获取崩溃报告#对报告进行反混淆](https://zh.minecraft.wiki/w/Tutorial:获取崩溃报告#对报告进行反混淆)
 [教程:通用物品分类器](https://zh.minecraft.wiki/w/Tutorial:通用物品分类器)
 [2026 年，如何在 VMware 虚拟机中安装 macOS？](https://sspai.com/post/106062)
+[VMware 虚拟机安装 macOS](https://blog.gucats.com/posts/ae0e9cb1.html)
 [Heaptrack 使用指南：让 C++ 内存问题无处遁形](https://www.cnblogs.com/yubo-guan/p/19652985)
 [x11和wayland切换](https://www.cnblogs.com/18231082sawyer/p/18903236)
 [解锁Bootloader-如何备份Android数据](https://zh-cn.aiseesoft.com/tutorial/android-backup-before-bootloader-unlock.html#section7)
