@@ -43,6 +43,7 @@ rightbar: ghuser, ghrepo, toc
 [教程:通用物品分类器](https://zh.minecraft.wiki/w/Tutorial:通用物品分类器)
 [2026 年，如何在 VMware 虚拟机中安装 macOS？](https://sspai.com/post/106062)
 [VMware 虚拟机安装 macOS](https://blog.gucats.com/posts/ae0e9cb1.html)
+[Windows环境下利用VMware Workstation Pro在AMD Ryzen及Intel CPU处理器上安装macOS黑苹果OpenCore引导](https://imacos.top/2026/04/15/amd-intel/)
 [Heaptrack 使用指南：让 C++ 内存问题无处遁形](https://www.cnblogs.com/yubo-guan/p/19652985)
 [x11和wayland切换](https://www.cnblogs.com/18231082sawyer/p/18903236)
 [解锁Bootloader-如何备份Android数据](https://zh-cn.aiseesoft.com/tutorial/android-backup-before-bootloader-unlock.html#section7)
