@@ -8,23 +8,23 @@ rightbar: ghuser, ghrepo, toc
 ---
 
 {% quot 工具箱 icon:hashtag el:h5 %}
-{% sites toolbox %}
+{% sites links/toolbox %}
 {% quot Minecraft 相关 icon:hashtag el:h6 %}
-{% sites mctools %}
+{% sites links/mctools %}
 {% quot 文档 & 手册 icon:hashtag el:h5 %}
-{% sites docs %}
+{% sites links/docs %}
 {% quot Minecraft 相关 icon:hashtag el:h6 %}
-{% sites mcdocs %}
+{% sites links/mcdocs %}
 {% quot 素材 icon:hashtag el:h5 %}
-{% sites assets %}
+{% sites links/assets %}
 {% quot 镜像站 icon:hashtag el:h5 %}
-{% sites mirrors %}
+{% sites links/mirrors %}
 {% quot 字典词典 & 参考规范 icon:hashtag el:h5 %}
-{% sites dicts %}
+{% sites links/dicts %}
 {% quot 杂项 icon:hashtag el:h5 %}
-{% sites misc %}
+{% sites links/misc %}
 {% quot 在线小游戏 icon:hashtag el:h6 %}
-{% sites games %}
+{% sites links/games %}
 {% quot 文章 icon:hashtag el:h5 %}
 [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
 [别像弱智一样提问](https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways/blob/master/README.md)
