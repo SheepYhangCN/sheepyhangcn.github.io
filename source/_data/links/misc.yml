@@ -23,6 +23,11 @@
   cover:
   icon:
   description: BanG Dream! 数据库
+- title: Sekai Viewer
+  url: https://sekai.best/
+  cover:
+  icon:
+  description: Project Sekai 数据库
 - title: Bangumi
   url: https://bangumi.tv/
   cover:
