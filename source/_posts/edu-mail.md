@@ -1,5 +1,6 @@
 ---
 title: edu 邮箱与教育优惠
+updated: 2026-09-08 17:25:43
 date: 2026-08-31 20:21:38
 ---
 
@@ -9,7 +10,7 @@ date: 2026-08-31 20:21:38
 
 ## Github 学生开发者包
 首先需要在 Github 个人设置里绑定 edu 邮箱
-进入[Github Educatioon](https://education.github.com/)进行申请
+进入[Github Education](https://education.github.com/)进行申请
 注意不要开代理也不要开虚拟定位
 学校输入自己学校的英文名
 某些学校会强制要求有 edu 邮箱才能进入下一步，我的学校就是这样
