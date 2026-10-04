@@ -108,3 +108,8 @@
   cover:
   icon:
   description: 真像素化 AI 生成像素图
+- title: TurboScribe
+  url: https://turboscribe.ai/
+  cover:
+  icon:
+  description: 视频打轴 音频识别
