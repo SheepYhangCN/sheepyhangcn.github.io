@@ -1,7 +1,7 @@
 ﻿---
 title: 让 Prism Launcher 使用 BMCLAPI
 date: 2026-05-22 22:26:26
-updated: 2026-06-20 02:23:36
+updated: 2026-10-22 14:32:55
 repo: SheepYhangCN/prism-meta-bmclapi
 tags: 
  - Minecraft
@@ -29,11 +29,39 @@ Worker 替换后散列值必然发生变化，所以必须进行处理
 解决方法是获取到 Json 后解析，然后删除掉 `sha256` 与 `sha1` 字段
 然后重新转换为字符串返回
 
+### Cloudflare Workers
+[worker.js](https://github.com/SheepYhangCN/prism-meta-bmclapi/blob/main/worker.js)
+在 LLM 的协助下写出的一个简单的 JavaScript，用于部署一个 Cloudflare Worker
+
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/prism-meta-bmclapi/cloudflare.png %}
+
+#### 部署方式 1
+登录 Github 并 fork [SheepYhangCN/prism-meta-bmclapi](https://github.com/SheepYhangCN/prism-meta-bmclapi) 仓库
+打开 https://dash.cloudflare.com 并登录
+打开 `Workers 与 Pages`
+新建一个，选择 `Continue with GitHub`
+连接 Cloudflare 与 Github 账户后，选择刚才 fork 的仓库
+其它参数不用改动，直接点击部署
+
+#### 部署方式 2
+打开 https://dash.cloudflare.com 并登录
+打开 `Workers 与 Pages`
+新建一个，选择 `从 Hello World 开始`
+地址任填，然后点击部署
+
+进来后台后点击右上角 `编辑代码`
+然后打开 [worker.js](https://github.com/SheepYhangCN/prism-meta-bmclapi/blob/main/worker.js)
+将这里的所有代码复制并粘贴到 Cloudflare 的编辑器中
+替换原有的内容 点击右上角部署
+
+#### 使用
+直接使用这个 workers 的域名即可
+Worker 域名直接对应的就是 `https://meta.prismlauncher.org/v1/`
+将 Worker 域名填入 Prism Launcher 的 Metadata 源中
+
+{% note color:red 注意 个人自用的域名不建议公开传播<br>Cloudflare Worker 的免费额度有限制<br>被伪人恶意刷了就不好了 %}
+
 ### 刷新缓存
 删除 Prism Launcher 目录下的 `meta` 文件夹以刷新缓存
 
-## Cloudflare Workers
-[worker.js](https://github.com/SheepYhangCN/prism-meta-bmclapi/blob/main/worker.js)
-在 AI 的协助下写出的一个简单的 JavaScript，用于部署一个 Cloudflare Worker
-Worker 域名直接对应的就是 `https://meta.prismlauncher.org/v1/`
-将 Worker 域名填入 Prism Launcher 的 Metadata 源中即可
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/prism-meta-bmclapi/prismlauncher.png %}
