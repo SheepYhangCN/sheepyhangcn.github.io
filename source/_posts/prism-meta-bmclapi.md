@@ -33,7 +33,7 @@ Worker 替换后散列值必然发生变化，所以必须进行处理
 [worker.js](https://github.com/SheepYhangCN/prism-meta-bmclapi/blob/main/worker.js)
 在 LLM 的协助下写出的一个简单的 JavaScript，用于部署一个 Cloudflare Worker
 
-{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/prism-meta-bmclapi/cloudflare.png %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/prism-meta-bmclapi/cloudflare.png  ratio:1405/922 %}
 
 #### 部署方式 1
 登录 Github 并 fork [SheepYhangCN/prism-meta-bmclapi](https://github.com/SheepYhangCN/prism-meta-bmclapi) 仓库
@@ -64,4 +64,4 @@ Worker 域名直接对应的就是 `https://meta.prismlauncher.org/v1/`
 ### 刷新缓存
 删除 Prism Launcher 目录下的 `meta` 文件夹以刷新缓存
 
-{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/prism-meta-bmclapi/prismlauncher.png %}
+{% image https://cdn.jsdmirror.com/gh/SheepYhangCN/sheepyhangcn.github.io/source/assets/images/prism-meta-bmclapi/prismlauncher.png  ratio:837/748 %}
